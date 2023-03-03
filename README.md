@@ -1,24 +1,21 @@
-# periodic-table
+# The Periodic Table of Composable B2B Commerce
 
-## Project setup
-```
-yarn install
-```
+This project contains implementation for periodic table for Zaelab.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+## Run locally
 
-### Compiles and minifies for production
+1) Install modules:
 ```
-yarn build
+npm install
 ```
 
-### Lints and fixes files
+2) Run app:
 ```
-yarn lint
+npm run dev
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Build for production
+
+```
+npm run build
+```
