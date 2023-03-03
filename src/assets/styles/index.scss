@@ -1,7 +1,5 @@
+@import "colors";
 @import "reset";
 @import "fonts";
-
-body {
-  font-family: "PP Mori", sans-serif;
-  font-display: swap;
-}
+@import "layout";
+@import "section-header";
