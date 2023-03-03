@@ -7,5 +7,11 @@
       <div class="section">Account</div>
       <div class="section">Shop</div>
     </div>
+
+    <div>
+      <div class="group-item">
+
+      </div>
+    </div>
   </div>
 </template>
