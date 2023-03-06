@@ -3,7 +3,7 @@ import {Capability, ICapability} from '@/lib/capability'
 export interface IElement {
   element: string
   name: string
-  capability: ICapability | null
+  capability: ICapability | null | string
   details: string
 }
 
@@ -18,7 +18,7 @@ export class Element implements IElement {
    * @param data
    * @param capability
    */
-  constructor (data: IElement | null = null, capability: Capability | null = null) {
+  constructor (data: IElement | null = null, capability: Capability | undefined = undefined) {
     if (capability) {
       this.capability = capability
     }

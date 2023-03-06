@@ -8,6 +8,8 @@ const isAppReady: ComputedRef<boolean> = computed(() => store.state.ui.isAppRead
 
 onMounted(async () => {
   await store.dispatch('app/initApplication')
+  await store.dispatch('data/loadCapabilities')
+  await store.dispatch('data/loadElements')
   await store.dispatch('ui/setAppReady', true)
 })
 
