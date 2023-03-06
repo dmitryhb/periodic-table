@@ -1,0 +1,19 @@
+<svg width="16px" height="17px" viewBox="0 0 16 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <polygon id="path-yri6obl1w_-1" points="0 0 10.316 0 10.316 8.3716 0 8.3716"></polygon>
+    </defs>
+    <g id="Page-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="BrandGuidelines2023-(1)" transform="translate(-60.000000, -751.000000)">
+            <g id="Group" transform="translate(60.000000, 751.719000)">
+                <polygon id="Fill-61" fill="#231F20" points="15.4243 6.22 12.4323 9.662 12.4323 3.327 0.0183 3.327 2.9183 0 15.4243 0"></polygon>
+                <g id="Group-65" transform="translate(0.000000, 7.052400)">
+                    <mask id="mask-yri6obl1w_-2" fill="white">
+                        <use xlink:href="#path-yri6obl1w_-1"></use>
+                    </mask>
+                    <g id="Clip-64"></g>
+                    <polygon id="Fill-63" fill="#231F20" mask="url(#mask-yri6obl1w_-2)" points="0 3.442 2.992 0 2.992 5.044 10.316 5.044 7.423 8.372 0 8.372"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
