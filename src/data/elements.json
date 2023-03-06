@@ -1,0 +1,722 @@
+[
+  {
+    "element": "Ar",
+    "name": "Account Registration",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "Pr",
+    "name": "Password Reset",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "Mf",
+    "name": "MFA (Multi-factor Authentication)",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "T",
+    "name": "Terms & Agreements",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "Np",
+    "name": "Notification Preferences",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "A",
+    "name": "Account 360 Page",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "Ab",
+    "name": "Address Book",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "Bi",
+    "name": "Business Information",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "S",
+    "name": "Saved Payments",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "Te",
+    "name": "Tax Exemption",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "P",
+    "name": "Profile Setup",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "Ra",
+    "name": "Role Assignment",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "Ah",
+    "name": "Account Hierarchy",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "Ac",
+    "name": "Assisted Service / Customer Imitation",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "L",
+    "name": "Login & SSO",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "N",
+    "name": "Notifications",
+    "capability": "accountManagement",
+    "details": ""
+  },
+  {
+    "element": "Cd",
+    "name": "Customer Dashboard",
+    "capability": "dashboards",
+    "details": ""
+  },
+  {
+    "element": "Sd",
+    "name": "Sales Dashboard",
+    "capability": "dashboards",
+    "details": ""
+  },
+  {
+    "element": "Se",
+    "name": "Service Dashboard",
+    "capability": "dashboards",
+    "details": ""
+  },
+  {
+    "element": "Md",
+    "name": "Manager Dashboards",
+    "capability": "dashboards",
+    "details": ""
+  },
+  {
+    "element": "Em",
+    "name": "Employee Management",
+    "capability": "selfService",
+    "details": ""
+  },
+  {
+    "element": "Sq",
+    "name": "Spending Quota",
+    "capability": "selfService",
+    "details": ""
+  },
+  {
+    "element": "Pd",
+    "name": "Pricing Dispute",
+    "capability": "selfService",
+    "details": ""
+  },
+  {
+    "element": "Po",
+    "name": "Post Order Change",
+    "capability": "selfService",
+    "details": ""
+  },
+  {
+    "element": "Ro",
+    "name": "Replacement Order",
+    "capability": "selfService",
+    "details": ""
+  },
+  {
+    "element": "Fa",
+    "name": "FAQ",
+    "capability": "selfService",
+    "details": ""
+  },
+  {
+    "element": "Cb",
+    "name": "Chat Bot",
+    "capability": "selfService",
+    "details": ""
+  },
+  {
+    "element": "Um",
+    "name": "User Management",
+    "capability": "selfService",
+    "details": ""
+  },
+  {
+    "element": "Ss",
+    "name": "Self-Service Permissions Management",
+    "capability": "selfService",
+    "details": ""
+  },
+  {
+    "element": "Ac",
+    "name": "Account Restrictions",
+    "capability": "restrictions",
+    "details": ""
+  },
+  {
+    "element": "Rp",
+    "name": "Regional Restrictions",
+    "capability": "restrictions",
+    "details": ""
+  },
+  {
+    "element": "Pe",
+    "name": "Product Restrictions",
+    "capability": "restrictions",
+    "details": ""
+  },
+  {
+    "element": "Ss",
+    "name": "Scheduled Shipments",
+    "capability": "orderManagement",
+    "details": ""
+  },
+  {
+    "element": "Or",
+    "name": "Order History",
+    "capability": "orderManagement",
+    "details": ""
+  },
+  {
+    "element": "Od",
+    "name": "Order Details",
+    "capability": "orderManagement",
+    "details": ""
+  },
+  {
+    "element": "Cr",
+    "name": "Contract Pricing Request",
+    "capability": "orderManagement",
+    "details": ""
+  },
+  {
+    "element": "Ca",
+    "name": "Contract Pricing Acceptance",
+    "capability": "orderManagement",
+    "details": ""
+  },
+  {
+    "element": "Os",
+    "name": "Order Downloads",
+    "capability": "orderManagement",
+    "details": ""
+  },
+  {
+    "element": "Po",
+    "name": "Pre-booking",
+    "capability": "orderManagement",
+    "details": ""
+  },
+  {
+    "element": "Rr",
+    "name": "Re-order",
+    "capability": "orderManagement",
+    "details": ""
+  },
+  {
+    "element": "St",
+    "name": "Shipment Tracking",
+    "capability": "orderManagement",
+    "details": ""
+  },
+  {
+    "element": "Ou",
+    "name": "Order Uploads",
+    "capability": "orderManagement",
+    "details": ""
+  },
+  {
+    "element": "Qh",
+    "name": "Quote History",
+    "capability": "quoteManagement",
+    "details": ""
+  },
+  {
+    "element": "Qd",
+    "name": "Quote Details",
+    "capability": "quoteManagement",
+    "details": ""
+  },
+  {
+    "element": "Qa",
+    "name": "Quote Approvals",
+    "capability": "quoteManagement",
+    "details": ""
+  },
+  {
+    "element": "C",
+    "name": "Conversations",
+    "capability": "quoteManagement",
+    "details": ""
+  },
+  {
+    "element": "Cs",
+    "name": "Create Subscription",
+    "capability": "subscriptions",
+    "details": ""
+  },
+  {
+    "element": "Sh",
+    "name": "Subscription History",
+    "capability": "subscriptions",
+    "details": ""
+  },
+  {
+    "element": "Sd",
+    "name": "Subscription Details",
+    "capability": "subscriptions",
+    "details": ""
+  },
+  {
+    "element": "Id",
+    "name": "Invoice Downloads",
+    "capability": "invoiceManagement",
+    "details": ""
+  },
+  {
+    "element": "Ih",
+    "name": "Invoice History",
+    "capability": "invoiceManagement",
+    "details": ""
+  },
+  {
+    "element": "I",
+    "name": "Invoice Details",
+    "capability": "invoiceManagement",
+    "details": ""
+  },
+  {
+    "element": "Ip",
+    "name": "Invoice Payment",
+    "capability": "invoiceManagement",
+    "details": "returnsWarranty"
+  },
+  {
+    "element": "Rm",
+    "name": "Return Merchandise Authorization",
+    "capability": "returnsWarranty",
+    "details": ""
+  },
+  {
+    "element": "Wa",
+    "name": "Warranty Claim",
+    "capability": "returnsWarranty",
+    "details": ""
+  },
+  {
+    "element": "Wr",
+    "name": "Warranty Registration",
+    "capability": "returnsWarranty",
+    "details": ""
+  },
+  {
+    "element": "Wh",
+    "name": "Warranty History & Management",
+    "capability": "returnsWarranty",
+    "details": ""
+  },
+  {
+    "element": "Wd",
+    "name": "Warranty Details",
+    "capability": "returnsWarranty",
+    "details": ""
+  },
+  {
+    "element": "Wp",
+    "name": "Warranty Renewal & Purchases",
+    "capability": "returnsWarranty",
+    "details": ""
+  },
+  {
+    "element": "Pc",
+    "name": "Product Catalog",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Pn",
+    "name": "Product Configuration",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Pf",
+    "name": "Product Fitment",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Cu",
+    "name": "Cross Sell / Upsell Association",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Pw",
+    "name": "Product Warnings",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Pl",
+    "name": "Price lists",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Pm",
+    "name": "Product Media",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "P",
+    "name": "Promotions & Discounts",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Pi",
+    "name": "Product MOQ/IOQ",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Cc",
+    "name": "Contract Catalogs",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Pq",
+    "name": "Product Q&A",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Po",
+    "name": "Product Substitutions",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "At",
+    "name": "ATP / Future Availability",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Lt",
+    "name": "Lead Times",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "I",
+    "name": "Inventory",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Dd",
+    "name": "Digitized Product Data",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Pp",
+    "name": "Potential Promotions",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Pm",
+    "name": "Product Manuals",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Dv",
+    "name": "3D Product Visualization",
+    "capability": "productsPricing",
+    "details": ""
+  },
+  {
+    "element": "Qq",
+    "name": "Quick Quote",
+    "capability": "carts",
+    "details": ""
+  },
+  {
+    "element": "Sc",
+    "name": "Shared Carts",
+    "capability": "carts",
+    "details": ""
+  },
+  {
+    "element": "Oa",
+    "name": "Order Approvals",
+    "capability": "carts",
+    "details": ""
+  },
+  {
+    "element": "Mc",
+    "name": "Carts / Multi-Carts",
+    "capability": "carts",
+    "details": ""
+  },
+  {
+    "element": "Sa",
+    "name": "Saved Carts",
+    "capability": "carts",
+    "details": ""
+  },
+  {
+    "element": "Sg",
+    "name": "UPC Scanning",
+    "capability": "carts",
+    "details": ""
+  },
+  {
+    "element": "Fl",
+    "name": "Favorite Lists",
+    "capability": "carts",
+    "details": ""
+  },
+  {
+    "element": "St",
+    "name": "Standard Checkout",
+    "capability": "checkout",
+    "details": ""
+  },
+  {
+    "element": "Te",
+    "name": "Terms & Conditions",
+    "capability": "checkout",
+    "details": ""
+  },
+  {
+    "element": "Sb",
+    "name": "Shipping & Billing",
+    "capability": "checkout",
+    "details": ""
+  },
+  {
+    "element": "Tx",
+    "name": "Tax Calculation",
+    "capability": "checkout",
+    "details": ""
+  },
+  {
+    "element": "Sl",
+    "name": "Split Shipments",
+    "capability": "checkout",
+    "details": ""
+  },
+  {
+    "element": "Ex",
+    "name": "Express Checkout",
+    "capability": "checkout",
+    "details": ""
+  },
+  {
+    "element": "Sy",
+    "name": "Split Payments",
+    "capability": "checkout",
+    "details": ""
+  },
+  {
+    "element": "Te",
+    "name": "Payment Terms",
+    "capability": "checkout",
+    "details": ""
+  },
+  {
+    "element": "Cp",
+    "name": "Order Confirmation Page",
+    "capability": "checkout",
+    "details": ""
+  },
+  {
+    "element": "Me",
+    "name": "Payment Method",
+    "capability": "checkout",
+    "details": ""
+  },
+  {
+    "element": "Pu",
+    "name": "Punchout",
+    "capability": "checkout",
+    "details": ""
+  },
+  {
+    "element": "La",
+    "name": "Landing Pages",
+    "capability": "webContent",
+    "details": ""
+  },
+  {
+    "element": "Cs",
+    "name": "Category Pages",
+    "capability": "webContent",
+    "details": ""
+  },
+  {
+    "element": "Br",
+    "name": "Brand Pages",
+    "capability": "webContent",
+    "details": ""
+  },
+  {
+    "element": "Na",
+    "name": "Natural Language Search",
+    "capability": "searchNavigation",
+    "details": ""
+  },
+  {
+    "element": "G",
+    "name": "Guided Search",
+    "capability": "searchNavigation",
+    "details": ""
+  },
+  {
+    "element": "Bo",
+    "name": "Product Boost",
+    "capability": "searchNavigation",
+    "details": ""
+  },
+  {
+    "element": "Ad",
+    "name": "Adaptive Index",
+    "capability": "searchNavigation",
+    "details": ""
+  },
+  {
+    "element": "Ty",
+    "name": "Type Ahead",
+    "capability": "searchNavigation",
+    "details": ""
+  },
+  {
+    "element": "Fa",
+    "name": "Facets",
+    "capability": "searchNavigation",
+    "details": ""
+  },
+  {
+    "element": "Se",
+    "name": "SEO",
+    "capability": "searchNavigation",
+    "details": ""
+  },
+  {
+    "element": "Ac",
+    "name": "ADA Compliance",
+    "capability": "legalCompliance",
+    "details": ""
+  },
+  {
+    "element": "Gc",
+    "name": "GDPR / CCPA Compliance",
+    "capability": "legalCompliance",
+    "details": ""
+  },
+  {
+    "element": "Wg",
+    "name": "WCAG Compliance",
+    "capability": "legalCompliance",
+    "details": ""
+  },
+  {
+    "element": "Sl",
+    "name": "Sell Sheets",
+    "capability": "salesEnablement",
+    "details": ""
+  },
+  {
+    "element": "Sm",
+    "name": "Supplier Management",
+    "capability": "marketplace",
+    "details": ""
+  },
+  {
+    "element": "Ra",
+    "name": "Range Expansion",
+    "capability": "marketplace",
+    "details": ""
+  },
+  {
+    "element": "Mw",
+    "name": "Marketing Website",
+    "capability": "marketplace",
+    "details": ""
+  },
+  {
+    "element": "Ma",
+    "name": "Marketing Automation",
+    "capability": "marketplace",
+    "details": ""
+  },
+  {
+    "element": "Ce",
+    "name": "(CXM) Customer Experience Management",
+    "capability": "dataAnalytics",
+    "details": ""
+  },
+  {
+    "element": "Ui",
+    "name": "User Interaction Tracking",
+    "capability": "dataAnalytics",
+    "details": ""
+  },
+  {
+    "element": "Ga",
+    "name": "Google Analytics",
+    "capability": "dataAnalytics",
+    "details": ""
+  },
+  {
+    "element": "Rs",
+    "name": "Region / Language Selection",
+    "capability": "internationalization",
+    "details": ""
+  },
+  {
+    "element": "Em",
+    "name": "Email Order Ingestion",
+    "capability": "orderAutomation",
+    "details": ""
+  },
+  {
+    "element": "Se",
+    "name": "Service Request",
+    "capability": "serviceManagement",
+    "details": ""
+  }
+]

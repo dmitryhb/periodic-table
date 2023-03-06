@@ -1,0 +1,107 @@
+[
+  {
+    "id": "accountManagement",
+    "color": "color-accent-1",
+    "name": "Account Management"
+  },
+  {
+    "id": "dashboards",
+    "color": "color-accent-2",
+    "name": "Dashboards"
+  },
+  {
+    "id": "selfService",
+    "color": "color-accent-3",
+    "name": "Self Service"
+  },
+  {
+    "id": "restrictions",
+    "color": "color-accent-4",
+    "name": "Restrictions"
+  },
+  {
+    "id": "orderManagement",
+    "color": "color-accent-5",
+    "name": "Order Management"
+  },
+  {
+    "id": "quoteManagement",
+    "color": "color-accent-6",
+    "name": "Quote Management"
+  },
+  {
+    "id": "subscriptions",
+    "color": "color-accent-7",
+    "name": "Subscriptions"
+  },
+  {
+    "id": "invoiceManagement",
+    "color": "color-accent-8",
+    "name": "Invoice Management"
+  },
+  {
+    "id": "returnsWarranty",
+    "color": "color-accent-9",
+    "name": "Returns & Warranty"
+  },
+  {
+    "id": "productsPricing",
+    "color": "color-accent-10",
+    "name": "Products & Pricing"
+  },
+  {
+    "id": "carts",
+    "color": "color-accent-11",
+    "name": "Carts"
+  },
+  {
+    "id": "checkout",
+    "color": "color-accent-12",
+    "name": "Checkout"
+  },
+  {
+    "id": "webContent",
+    "color": "color-accent-13",
+    "name": "Web Content"
+  },
+  {
+    "id": "searchNavigation",
+    "color": "color-accent-14",
+    "name": "Search & Navigation"
+  },
+  {
+    "id": "legalCompliance",
+    "color": "color-accent-15",
+    "name": "Legal & Compliance"
+  },
+  {
+    "id": "salesEnablement",
+    "color": "color-accent-16",
+    "name": "Sales Enablement"
+  },
+  {
+    "id": "marketplace",
+    "color": "color-accent-17",
+    "name": "Marketplace"
+  },
+  {
+    "id": "dataAnalytics",
+    "color": "color-accent-18",
+    "name": "Data & Analytics"
+  },
+  {
+    "id": "internationalization",
+    "color": "color-accent-19",
+    "name": "Internationalization"
+  },
+  {
+    "id": "orderAutomation",
+    "color": "color-accent-20",
+    "name": "Order Automation"
+  },
+  {
+    "id": "serviceManagement",
+    "color": "color-accent-21",
+    "name": "Service Management"
+  }
+]
