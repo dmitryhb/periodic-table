@@ -169,7 +169,7 @@
   },
   {
     "element": "Ss",
-    "name": "Self-Service Permissions Management",
+    "name": "Self-Service Permissions Mgmt",
     "capability": "selfService",
     "details": ""
   },
@@ -685,7 +685,7 @@
   },
   {
     "element": "Ce",
-    "name": "(CXM) Customer Experience Management",
+    "name": "Customer Experience Management",
     "capability": "dataAnalytics",
     "details": ""
   },

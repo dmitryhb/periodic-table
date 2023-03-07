@@ -25,7 +25,7 @@ export class Element implements IElement {
 
     if (data) {
       this.element = data.element
-      this.name = data.element
+      this.name = data.name
       this.details = data.details
     }
   }

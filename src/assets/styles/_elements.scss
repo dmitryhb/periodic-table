@@ -1,4 +1,4 @@
-.element, .capabilities-list li span.color {
+.element-item, .capabilities-list li span.color {
   &.color-accent-1 {
     background-color: $color-accent-1;
   }
@@ -10,6 +10,7 @@
   }
   &.color-accent-4 {
     background-color: $color-accent-4;
+    color: #fff;
   }
   &.color-accent-5 {
     background-color: $color-accent-5;
@@ -22,6 +23,7 @@
   }
   &.color-accent-8 {
     background-color: $color-accent-8;
+    color: #fff;
   }
   &.color-accent-9 {
     background-color: $color-accent-9;
@@ -31,9 +33,11 @@
   }
   &.color-accent-11 {
     background-color: $color-accent-11;
+    border: 1px solid rgba(0, 0, 0, 0.1);
   }
   &.color-accent-12 {
     background-color: $color-accent-12;
+    color: #fff;
   }
   &.color-accent-13 {
     background-color: $color-accent-13;
@@ -46,6 +50,7 @@
   }
   &.color-accent-16 {
     background-color: $color-accent-16;
+    border: 1px solid rgba(0, 0, 0, 0.1);
   }
   &.color-accent-17 {
     background-color: $color-accent-17;
@@ -61,6 +66,54 @@
   }
   &.color-accent-21 {
     background-color: $color-accent-21;
+    color: #fff;
+  }
+}
+
+.elements-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+.element-item {
+  width: 170px;
+  height: 94px;
+  padding: 14px;
+  margin: 3px;
+  position: relative;
+  cursor: pointer;
+  transition: transform 0.2s ease-in-out;
+  user-select: none;
+
+  &:before {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    content: "";
+    opacity: 0;
+    background: rgba(255, 255, 255, 0.7);
+    transition: opacity 0.2s ease-in-out;
+  }
+
+  &:hover {
+    transform: scale(1.02, 1.02);
+
+    &:before {
+      opacity: 0.1;
+    }
+  }
+  &:active {
+    transform: scale(0.98, 0.98);
+  }
+
+  .element {
+    font-size: 28px;
+    margin-bottom: 4px;
+  }
+  .name {
+    font-size: 13px;
+    line-height: 135%;
   }
 }
 

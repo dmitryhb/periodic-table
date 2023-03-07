@@ -3,6 +3,7 @@ import AppLoader from './components/ui/AppLoader.vue'
 import {computed, ComputedRef, defineComponent, onMounted} from 'vue'
 import {useStore} from 'vuex'
 import CapabilitiesList from '@/components/CapabilitiesList.vue'
+import ElementsList from '@/components/ElementsList.vue'
 
 const store = useStore()
 const isAppReady: ComputedRef<boolean> = computed(() => store.state.ui.isAppReady)
@@ -23,6 +24,7 @@ defineComponent({
     <div class="title">The Periodic Table of Composable B2B Commerce</div>
     <div>
       <capabilities-list />
+      <elements-list />
     </div>
   </div>
   <app-loader v-else/>
