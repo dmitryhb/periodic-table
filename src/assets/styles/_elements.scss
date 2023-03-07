@@ -1,4 +1,4 @@
-.element {
+.element, .capabilities-list li span.color {
   &.color-accent-1 {
     background-color: $color-accent-1;
   }
@@ -61,5 +61,34 @@
   }
   &.color-accent-21 {
     background-color: $color-accent-21;
+  }
+}
+
+.capabilities-list {
+  ul, li {
+    margin: 0;
+    padding: 0;
+  }
+
+  ul {
+    display: flex;
+    flex-wrap: wrap;
+
+    li {
+      flex: 1 0 33%;
+    }
+  }
+
+  .capability {
+    display: inline-flex;
+    padding: 8px;
+    justify-items: center;
+
+    .color {
+      width: 12px;
+      height: 12px;
+      margin-right: 8px;
+      border: 1px solid rgba(0, 0, 0, 0.1)
+    }
   }
 }
