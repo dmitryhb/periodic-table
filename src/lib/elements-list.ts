@@ -46,6 +46,15 @@ export class ElementsList implements IItemsList<Element, IElement> {
     data.forEach((item: IElement): void => {
       const capability: Capability | undefined = this.capabilities ? this.capabilities.findById(item.capability as string) : undefined
       const instance: Element = new Element(item, capability)
+
+      if (capability) {
+        if (!capability.elements) {
+          capability.elements = []
+        }
+
+        capability.elements.push(instance)
+      }
+
       this._items.push(instance)
     })
   }

@@ -70,15 +70,63 @@
   }
 }
 
+.elements-view {
+  position: relative;
+}
+
 .elements-list {
+  padding: 10px 0;
   display: flex;
-  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+  .capability {
+    display: grid;
+    position: relative;
+    transition: opacity 0.2s linear;
+
+    &:nth-child(2),
+    &:nth-child(3),
+    &:nth-child(4),
+    &:nth-child(5) {
+      margin-top: 291px;
+    }
+
+    &.column-0 {
+      grid-template-columns: repeat(1, 1fr);
+    }
+    &.column-1 {
+      grid-template-columns: repeat(2, 1fr);
+    }
+    &.column-2 {
+      grid-template-columns: repeat(3, 1fr);
+    }
+    &.column-3 {
+      grid-template-columns: repeat(4, 1fr);
+    }
+    &.column-4 {
+      grid-template-columns: repeat(5, 1fr);
+    }
+  }
+
+  &.has-selected {
+    .capability {
+      opacity: 0.4;
+      filter: grayscale(1);
+
+      &.selected {
+        z-index: 3;
+        filter: none;
+        opacity: 1;
+      }
+    }
+  }
 }
 .element-item {
   width: 170px;
   height: 94px;
   padding: 14px;
-  margin: 3px;
+  margin: 1.5px;
   position: relative;
   cursor: pointer;
   transition: transform 0.2s ease-in-out;
@@ -97,14 +145,13 @@
   }
 
   &:hover {
-    transform: scale(1.02, 1.02);
-
-    &:before {
-      opacity: 0.1;
-    }
+    transform: scale(1.1, 1.1);
+    z-index: 2;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border: 0.5px solid rgba(255, 255, 255, 0.5);
   }
   &:active {
-    transform: scale(0.98, 0.98);
+    transform: scale(0.95, 0.95);
   }
 
   .element {
@@ -118,6 +165,11 @@
 }
 
 .capabilities-list {
+  width: 1000px;
+  position: absolute;
+  left: 400px;
+  top: 35px;
+
   ul, li {
     margin: 0;
     padding: 0;
@@ -134,14 +186,43 @@
 
   .capability {
     display: inline-flex;
-    padding: 8px;
-    justify-items: center;
+    padding: 4px 8px;
+    margin: 4px 0;
+    align-items: flex-end;
+    cursor: pointer;
+    transition: background-color 0.2s linear;
+    border-radius: 4px;
+    user-select: none;
+    border: 1px solid transparent;
+
+    &.selected {
+      background-color: rgba(0, 0, 0, 0.04);
+      border: 1px solid rgba(0, 0, 0, 0.06);
+    }
+
+    &:hover {
+      background-color: rgba(0, 0, 0, 0.04);
+    }
 
     .color {
-      width: 12px;
-      height: 12px;
+      width: 16px;
+      height: 16px;
       margin-right: 8px;
-      border: 1px solid rgba(0, 0, 0, 0.1)
+      border: 1px solid rgba(0, 0, 0, 0.1);
+    }
+
+    .name {
+      transition: color 0.2s linear;
+    }
+  }
+
+  &.has-selected {
+    .name {
+      color: #666;
+    }
+
+    .selected .name {
+      color: #000;
     }
   }
 }

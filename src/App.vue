@@ -23,7 +23,6 @@ defineComponent({
   <div v-if="isAppReady">
     <div class="title">The Periodic Table of Composable B2B Commerce</div>
     <div>
-      <capabilities-list />
       <elements-list />
     </div>
   </div>
