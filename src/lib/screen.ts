@@ -3,7 +3,7 @@
  * @return {boolean}
  */
 const isSmallScreen = () => {
-  return document.documentElement.offsetWidth <= 959
+  return window.innerWidth <= 450
 }
 
 export { isSmallScreen }

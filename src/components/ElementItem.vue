@@ -16,9 +16,9 @@ defineProps({
   <div
       class="element-item"
       @click.prevent="onElementClicked"
-      :class="element.capability.color"
+      :class="element && element.capability ? element.capability.color : ''"
   >
-    <div class="element">{{ element.element }}</div>
-    <div class="name">{{ element.name }}</div>
+    <div class="element">{{ element ? element.element : '' }}</div>
+    <div class="name">{{ element ? element.name : '' }}</div>
   </div>
 </template>

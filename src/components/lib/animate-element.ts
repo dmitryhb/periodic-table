@@ -1,4 +1,4 @@
-import * as gsap from 'gsap'
+import {gsap, TimelineLite, Circ} from 'gsap'
 import {Element} from '@/lib/element'
 import {isSmallScreen} from '@/lib/screen'
 
@@ -60,7 +60,7 @@ export const useAnimateElement = (): IUseAnimateElement => {
 
     applyBounds(clonedContainer, bounds)
 
-    const tl = new gsap.TimelineMax()
+    const tl = new TimelineLite()
     const scrollLeft = document.documentElement.scrollLeft
 
     tl.set(clonedContainer, { width: isSmallScreen() ? 130 : 170 })
@@ -68,19 +68,19 @@ export const useAnimateElement = (): IUseAnimateElement => {
       left: isSmallScreen() ? (scrollLeft + 21) : 80,
       top: isSmallScreen() ? 20 : 100,
       duration: 0.6,
-      ease: gsap.Circ.easeInOut
+      ease: Circ.easeInOut
     })
     tl.to(clonedContainer, {
       height: 400,
       duration: 0.3,
-      ease: gsap.Circ.easeOut
+      ease: Circ.easeOut
     })
     tl.to(clonedContainer, {
       width: isSmallScreen() ? document.documentElement.offsetWidth - 42 : 500,
       duration: 0.4,
-      ease: gsap.Circ.easeIn
+      ease: Circ.easeIn
     })
-    const tlCloseButton = new gsap.TimelineMax()
+    const tlCloseButton = new TimelineLite()
     tlCloseButton.to(closeButton, {
       opacity: 1,
       delay: 1.2,
@@ -102,7 +102,7 @@ export const useAnimateElement = (): IUseAnimateElement => {
     closeButton.style.display = 'none'
     details.style.display = 'none'
 
-    const tl = new gsap.TimelineMax()
+    const tl = new TimelineLite()
     tl.set(domElementCloned, {
       width: 170,
     })
