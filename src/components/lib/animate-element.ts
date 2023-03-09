@@ -1,5 +1,6 @@
 import * as gsap from 'gsap'
 import {Element} from '@/lib/element'
+import {isSmallScreen} from '@/lib/screen'
 
 export interface IUseAnimateElement {
   animateElementIntro(element: Element): void
@@ -60,10 +61,12 @@ export const useAnimateElement = (): IUseAnimateElement => {
     applyBounds(clonedContainer, bounds)
 
     const tl = new gsap.TimelineMax()
-    tl.set(clonedContainer, { width: 170 })
+    const scrollLeft = document.documentElement.scrollLeft
+
+    tl.set(clonedContainer, { width: isSmallScreen() ? 130 : 170 })
     tl.to(clonedContainer, {
-      left: 80,
-      top: 100,
+      left: isSmallScreen() ? (scrollLeft + 21) : 80,
+      top: isSmallScreen() ? 20 : 100,
       duration: 0.6,
       ease: gsap.Circ.easeInOut
     })
@@ -73,7 +76,7 @@ export const useAnimateElement = (): IUseAnimateElement => {
       ease: gsap.Circ.easeOut
     })
     tl.to(clonedContainer, {
-      width: 500,
+      width: isSmallScreen() ? document.documentElement.offsetWidth - 42 : 500,
       duration: 0.4,
       ease: gsap.Circ.easeIn
     })
