@@ -72,6 +72,12 @@
 
 .elements-view {
   position: relative;
+  transition: opacity 0.3s linear;
+  opacity: 1;
+
+  &.has-current-element {
+    opacity: 0.8;
+  }
 }
 
 .elements-list {
@@ -122,6 +128,43 @@
     }
   }
 }
+.cloned-element {
+  position: fixed;
+  z-index: 100;
+  background: #fff;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+
+  .close {
+    background: url('../images/icon-close.svg') no-repeat center center;
+    background-size: contain;
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    display: inline-block;
+    padding: 4px;
+    opacity: 0;
+  }
+
+  .details {
+    position: absolute;
+    left: 170px;
+    top: 0;
+    width: 330px;
+    padding: 20px;
+    line-height: 135%;
+  }
+
+  .element-item {
+    position: relative;
+    left: 0;
+    top: 0;
+    height: 100%;
+    margin: 0;
+  }
+}
 .element-item {
   width: 170px;
   height: 94px;
@@ -164,11 +207,24 @@
   }
 }
 
+a {
+  color: #555;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
 .capabilities-list {
-  width: 1000px;
+  width: 950px;
   position: absolute;
   left: 400px;
   top: 35px;
+
+  .clear-all {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
 
   ul, li {
     margin: 0;

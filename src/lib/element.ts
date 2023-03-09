@@ -1,6 +1,7 @@
 import {Capability, ICapability} from '@/lib/capability'
 
 export interface IElement {
+  id: string,
   element: string
   name: string
   capability: ICapability | null | string
@@ -8,6 +9,7 @@ export interface IElement {
 }
 
 export class Element implements IElement {
+  private _id: string = ''
   private _element: string = ''
   private _name: string = ''
   private _capability: ICapability | null = null
@@ -28,6 +30,14 @@ export class Element implements IElement {
       this.name = data.name
       this.details = data.details
     }
+  }
+
+  get id(): string {
+    return this._id
+  }
+
+  set id(value: string) {
+    this._id = value
   }
 
   get element(): string {

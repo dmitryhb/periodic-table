@@ -1,12 +1,15 @@
 import type { ActionTree, GetterTree, MutationTree } from 'vuex'
 import {delay} from '@/lib/delay'
+import {Element} from '@/lib/element'
 
 export interface IAppState {
-  selectedCapabilities: string[]
+  selectedCapabilities: string[],
+  currentElement: Element | null
 }
 
 const state: IAppState = {
-  selectedCapabilities: []
+  selectedCapabilities: [],
+  currentElement: null
 }
 
 const getters: GetterTree<IAppState, never> = {}
@@ -28,6 +31,23 @@ const mutations: MutationTree<IAppState> = {
     } else {
       state.selectedCapabilities.push(capabilityId)
     }
+  },
+
+  /**
+   * Clear all selected capabilities.
+   * @param state
+   */
+  clearSelectedCapabilities (state: IAppState): void {
+    state.selectedCapabilities = []
+  },
+
+  /**
+   * Set current element.
+   * @param state
+   * @param element
+   */
+  setCurrentElement (state: IAppState, element: Element | null): void {
+    state.currentElement = element
   }
 }
 
@@ -48,6 +68,23 @@ const actions: ActionTree<IAppState, never> = {
    */
   toggleSelectedCapability ({ commit }, capabilityId: string): void {
     commit('toggleSelectedCapability', capabilityId)
+  },
+
+  /**
+   * Clear selected capabilities.
+   * @param commit
+   */
+  clearSelectedCapabilities ({ commit }): void {
+    commit('clearSelectedCapabilities')
+  },
+
+  /**
+   * Set current element.
+   * @param commit
+   * @param element
+   */
+  setCurrentElement ({ commit }, element: Element | null): void {
+    commit('setCurrentElement', element)
   }
 }
 

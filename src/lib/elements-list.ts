@@ -43,9 +43,10 @@ export class ElementsList implements IItemsList<Element, IElement> {
    */
   public fromArray(data: IElement[]): void {
     this._items = []
-    data.forEach((item: IElement): void => {
+    data.forEach((item: IElement, i: number): void => {
       const capability: Capability | undefined = this.capabilities ? this.capabilities.findById(item.capability as string) : undefined
       const instance: Element = new Element(item, capability)
+      instance.id = `element-${capability?.id}-${i}`
 
       if (capability) {
         if (!capability.elements) {

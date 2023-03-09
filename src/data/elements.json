@@ -3,313 +3,313 @@
     "element": "Ar",
     "name": "Account Registration",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pr",
     "name": "Password Reset",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Mf",
     "name": "MFA (Multi-factor Authentication)",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "T",
     "name": "Terms & Agreements",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Np",
     "name": "Notification Preferences",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "A",
     "name": "Account 360 Page",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ab",
     "name": "Address Book",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Bi",
     "name": "Business Information",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "S",
     "name": "Saved Payments",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Te",
     "name": "Tax Exemption",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "P",
     "name": "Profile Setup",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ra",
     "name": "Role Assignment",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ah",
     "name": "Account Hierarchy",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ac",
     "name": "Assisted Service / Customer Imitation",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "L",
     "name": "Login & SSO",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "N",
     "name": "Notifications",
     "capability": "accountManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Cd",
     "name": "Customer Dashboard",
     "capability": "dashboards",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sd",
     "name": "Sales Dashboard",
     "capability": "dashboards",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Se",
     "name": "Service Dashboard",
     "capability": "dashboards",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Md",
     "name": "Manager Dashboards",
     "capability": "dashboards",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Em",
     "name": "Employee Management",
     "capability": "selfService",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sq",
     "name": "Spending Quota",
     "capability": "selfService",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pd",
     "name": "Pricing Dispute",
     "capability": "selfService",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Po",
     "name": "Post Order Change",
     "capability": "selfService",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ro",
     "name": "Replacement Order",
     "capability": "selfService",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Fa",
     "name": "FAQ",
     "capability": "selfService",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Cb",
     "name": "Chat Bot",
     "capability": "selfService",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Um",
     "name": "User Management",
     "capability": "selfService",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ss",
     "name": "Self-Service Permissions Mgmt",
     "capability": "selfService",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ac",
     "name": "Account Restrictions",
     "capability": "restrictions",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Rp",
     "name": "Regional Restrictions",
     "capability": "restrictions",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pe",
     "name": "Product Restrictions",
     "capability": "restrictions",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ss",
     "name": "Scheduled Shipments",
     "capability": "orderManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Or",
     "name": "Order History",
     "capability": "orderManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Od",
     "name": "Order Details",
     "capability": "orderManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Cr",
     "name": "Contract Pricing Request",
     "capability": "orderManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ca",
     "name": "Contract Pricing Acceptance",
     "capability": "orderManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Os",
     "name": "Order Downloads",
     "capability": "orderManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Po",
     "name": "Pre-booking",
     "capability": "orderManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Rr",
     "name": "Re-order",
     "capability": "orderManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "St",
     "name": "Shipment Tracking",
     "capability": "orderManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ou",
     "name": "Order Uploads",
     "capability": "orderManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Qh",
     "name": "Quote History",
     "capability": "quoteManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Qd",
     "name": "Quote Details",
     "capability": "quoteManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Qa",
     "name": "Quote Approvals",
     "capability": "quoteManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "C",
     "name": "Conversations",
     "capability": "quoteManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Cs",
     "name": "Create Subscription",
     "capability": "subscriptions",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sh",
     "name": "Subscription History",
     "capability": "subscriptions",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sd",
     "name": "Subscription Details",
     "capability": "subscriptions",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Id",
     "name": "Invoice Downloads",
     "capability": "invoiceManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ih",
     "name": "Invoice History",
     "capability": "invoiceManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "I",
     "name": "Invoice Details",
     "capability": "invoiceManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ip",
@@ -321,402 +321,402 @@
     "element": "Rm",
     "name": "Return Merchandise Authorization",
     "capability": "returnsWarranty",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Wa",
     "name": "Warranty Claim",
     "capability": "returnsWarranty",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Wr",
     "name": "Warranty Registration",
     "capability": "returnsWarranty",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Wh",
     "name": "Warranty History & Management",
     "capability": "returnsWarranty",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Wd",
     "name": "Warranty Details",
     "capability": "returnsWarranty",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Wp",
     "name": "Warranty Renewal & Purchases",
     "capability": "returnsWarranty",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pc",
     "name": "Product Catalog",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pn",
     "name": "Product Configuration",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pf",
     "name": "Product Fitment",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Cu",
     "name": "Cross Sell / Upsell Association",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pw",
     "name": "Product Warnings",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pl",
     "name": "Price lists",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pm",
     "name": "Product Media",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "P",
     "name": "Promotions & Discounts",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pi",
     "name": "Product MOQ/IOQ",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Cc",
     "name": "Contract Catalogs",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pq",
     "name": "Product Q&A",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Po",
     "name": "Product Substitutions",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "At",
     "name": "ATP / Future Availability",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Lt",
     "name": "Lead Times",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "I",
     "name": "Inventory",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Dd",
     "name": "Digitized Product Data",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pp",
     "name": "Potential Promotions",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pm",
     "name": "Product Manuals",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Dv",
     "name": "3D Product Visualization",
     "capability": "productsPricing",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Qq",
     "name": "Quick Quote",
     "capability": "carts",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sc",
     "name": "Shared Carts",
     "capability": "carts",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Oa",
     "name": "Order Approvals",
     "capability": "carts",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Mc",
     "name": "Carts / Multi-Carts",
     "capability": "carts",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sa",
     "name": "Saved Carts",
     "capability": "carts",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sg",
     "name": "UPC Scanning",
     "capability": "carts",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Fl",
     "name": "Favorite Lists",
     "capability": "carts",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "St",
     "name": "Standard Checkout",
     "capability": "checkout",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Te",
     "name": "Terms & Conditions",
     "capability": "checkout",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sb",
     "name": "Shipping & Billing",
     "capability": "checkout",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Tx",
     "name": "Tax Calculation",
     "capability": "checkout",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sl",
     "name": "Split Shipments",
     "capability": "checkout",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ex",
     "name": "Express Checkout",
     "capability": "checkout",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sy",
     "name": "Split Payments",
     "capability": "checkout",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Te",
     "name": "Payment Terms",
     "capability": "checkout",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Cp",
     "name": "Order Confirmation Page",
     "capability": "checkout",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Me",
     "name": "Payment Method",
     "capability": "checkout",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Pu",
     "name": "Punchout",
     "capability": "checkout",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "La",
     "name": "Landing Pages",
     "capability": "webContent",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Cs",
     "name": "Category Pages",
     "capability": "webContent",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Br",
     "name": "Brand Pages",
     "capability": "webContent",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Na",
     "name": "Natural Language Search",
     "capability": "searchNavigation",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "G",
     "name": "Guided Search",
     "capability": "searchNavigation",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Bo",
     "name": "Product Boost",
     "capability": "searchNavigation",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ad",
     "name": "Adaptive Index",
     "capability": "searchNavigation",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ty",
     "name": "Type Ahead",
     "capability": "searchNavigation",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Fa",
     "name": "Facets",
     "capability": "searchNavigation",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Se",
     "name": "SEO",
     "capability": "searchNavigation",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ac",
     "name": "ADA Compliance",
     "capability": "legalCompliance",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Gc",
     "name": "GDPR / CCPA Compliance",
     "capability": "legalCompliance",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Wg",
     "name": "WCAG Compliance",
     "capability": "legalCompliance",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sl",
     "name": "Sell Sheets",
     "capability": "salesEnablement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Sm",
     "name": "Supplier Management",
     "capability": "marketplace",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ra",
     "name": "Range Expansion",
     "capability": "marketplace",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Mw",
     "name": "Marketing Website",
     "capability": "marketplace",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ma",
     "name": "Marketing Automation",
     "capability": "marketplace",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ce",
     "name": "Customer Experience Management",
     "capability": "dataAnalytics",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ui",
     "name": "User Interaction Tracking",
     "capability": "dataAnalytics",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Ga",
     "name": "Google Analytics",
     "capability": "dataAnalytics",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Rs",
     "name": "Region / Language Selection",
     "capability": "internationalization",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Em",
     "name": "Email Order Ingestion",
     "capability": "orderAutomation",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   },
   {
     "element": "Se",
     "name": "Service Request",
     "capability": "serviceManagement",
-    "details": ""
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
   }
 ]
