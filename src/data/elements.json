@@ -3,720 +3,720 @@
     "element": "Ar",
     "name": "Account Registration",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Account Registration provides the ability for new or existing accounts to register. Account registration ensure that the account is validated and has access to the digital sales portal. Typically, accounts will be registered to ensure that sensitive content including product pricing or other information is not easily accessible to customers."
   },
   {
     "element": "Pr",
     "name": "Password Reset",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Password Reset allows a user to reset their password if they have forgotten or a password has expired. This feature has become a standard across all digital properties. Proper security and password enforcement should be considered a best-practice."
   },
   {
     "element": "Mf",
     "name": "MFA (Multi-factor Authentication)",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "MFA has become a security best practice to prevent unauthenticated users. MFA should be enforced upon login and should utilize an authenticaiton token or application. This layer of security ensure that hackers or other actors are less likely to enter the digital sales platform even if passwords have been compromised."
   },
   {
     "element": "T",
     "name": "Terms & Agreements",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Terms & Agreements are a critical legal document so that users understand the Company obligations, how data is utilized and stored."
   },
   {
     "element": "Np",
     "name": "Notification Preferences",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Notification Preferences provide the user the ability to manage the types, frequency, and format of the notifications they receive. By providing notification preferences, users will have a more personalized and exceptional experience."
   },
   {
     "element": "A",
     "name": "Account 360 Page",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Provide a full view of a particular account including order history, users, access information. The goal of this page is to provide a snapshot and insights for Customer Service and Sales Reps to garner actional insights to better support a specific account."
   },
   {
     "element": "Ab",
     "name": "Address Book",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Ability to store and manage addresses for both billing and ship-to locations."
   },
   {
     "element": "Bi",
     "name": "Business Information",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to collect, display, and manage business information for each individual user. Customers can be aligned to specific accounts within an organization at any level of the business hierarchy. This allows for customizable shopping experiences by user or by company."
   },
   {
     "element": "S",
     "name": "Saved Payments",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Saved Payments allows a customer to save and manage their credit cards for future use and quick and easy checkout."
   },
   {
     "element": "Te",
     "name": "Tax Exemption",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Tax Exemption allows organizations to manage their customers who are exempt from taxes, providing secure upload and storage for tax exemption documents along with workflow to review and approve accounts for tax exempt purchases. The system will recognize tax exempt customers and will adjust their tax totals appropriately."
   },
   {
     "element": "P",
     "name": "Profile Setup",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to setup individual user profiles and collect pertinent information on users to tailor shopping experiences in a personalized way based on actionable data. Profile setups can additionally be done in bulk when importing a high number of users."
   },
   {
     "element": "Ra",
     "name": "Role Assignment",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Role assignment is a crucial piece of eCommerce solutions. Differing personas define the shopping experience for both internal and external users. Internal users such as sales and customer service will be enabled to shop on behalf of customers and efficiently provide quotes for their frequent accounts. External users will enjoy a tailored experience based on their specific profile capabilities, company details, and promotions available to them."
   },
   {
     "element": "Ah",
     "name": "Account Hierarchy",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "In B2B settings, account management is often not a 1:1 relationship. Accounts can have many organization and buyers that roll-up to a parent account. The ability to manage accounts in a hierarchical approach is critical to conducting business."
   },
   {
     "element": "Ac",
     "name": "Assisted Service / Customer Imitation",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Internal service and sales employees can shop and checkout directly on behalf of any customer within their territory or jurisdiction. Customer selection is streamlined via a user managed favorite accounts list. Shopping on behalf of a customer applies all of that customer's restrictions, products and prices for the employee so long as they are browsing the site with that customer selected."
   },
   {
     "element": "L",
     "name": "Login & SSO",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Full support for integration with active directories and authentication for single sign on."
   },
   {
     "element": "N",
     "name": "Notifications",
     "capability": "accountManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The system provides configurable user notifications including order status updates, quote updates, and open claims. Users will have full ability to manage their own preferences for the notifications they wish to receive and the medium they wish to receive them through.  "
   },
   {
     "element": "Cd",
     "name": "Customer Dashboard",
     "capability": "dashboards",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Provide customers with clean, value-adding dashboards based upon their persona type. Dashboard widgets may include recent orders, invoices, promotions, bulk upload, or savings information. The primary purpose of the dashboard is to provide the right information to the right user, and facilitate their customer journey."
   },
   {
     "element": "Sd",
     "name": "Sales Dashboard",
     "capability": "dashboards",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Dashboards provide users a templatized homepage of components providing customizable metrics, quick quoting capabilities, and efficient views on active quotes or recent orders/invoices. Dashboards are personalized by user persona, the sales rep dashboard focuses on territory based metrics."
   },
   {
     "element": "Se",
     "name": "Service Dashboard",
     "capability": "dashboards",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Dashboards provide users a templatized homepage of components providing customizable metrics, quick quoting capabilities, and efficient views on active quotes or recent orders/invoices. Dashboards are personalized by user persona, the customer service rep dashboard focuses on customer and quote/order entry based metrics."
   },
   {
     "element": "Md",
     "name": "Manager Dashboards",
     "capability": "dashboards",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Dashboards provide users a templatized homepage of components providing customizable metrics, quick quoting capabilities, and efficient views on active quotes or recent orders/invoices. Dashboards are personalized by user persona, the manager dashboards focus on team based metrics."
   },
   {
     "element": "Em",
     "name": "Employee Management",
     "capability": "selfService",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Accounts will often have many employees that have various rights including purchasing, order approval, employee management, etc. By providing accounts the ability to manage their own employees we can reduce services requests and enable a high degree of self-service."
   },
   {
     "element": "Sq",
     "name": "Spending Quota",
     "capability": "selfService",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Some customer end users can be empowered as admins. One of the functions of an admin user is the ability to manage the spending quotas of stores and users which they have permissions to manage. Spending quotas can be configured at all levels of an organization for any given time period."
   },
   {
     "element": "Pd",
     "name": "Pricing Dispute",
     "capability": "selfService",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "In cases where customers feel they are receiving an incorrect price for a product or an order based on contracts, promotions, or other sales-related agreements/discounts, full support is offered for submitting and tracking pricing dispute claims. The system can additionally be configured to automatically apply credits or kick off refund workflows when a pricing dispute claim is accepted."
   },
   {
     "element": "Po",
     "name": "Post Order Change",
     "capability": "selfService",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "After an order has been placed, the system allows customers to manage their orders including any changes allowed prior to shipment (or as defined from business restrictions) such as line additions, removal, or certain header details. The system fully accounts for and provides an interface for all changes in payment."
   },
   {
     "element": "Ro",
     "name": "Replacement Order",
     "capability": "selfService",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "There are a number of reasons a product may not make it to the customer or may not be deemed satisfactory for use/sale, the system allows customer to submit replacement order requests by order, line, and quantity. Workflow allows internal users to manage replacement requests."
   },
   {
     "element": "Fa",
     "name": "FAQ",
     "capability": "selfService",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "A staple of every eCommerce site is a knowledge base that allows customers to view questions that other customers or product users frequently ask about general company product lines, policies, or certain site processes."
   },
   {
     "element": "Cb",
     "name": "Chat Bot",
     "capability": "selfService",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "As online shopping becomes more popular, it is more essential to be able to converse real-time, easily, and efficiently with customers on general inquiries and site navigation assistance. Bots allow for automated routing of customer inquiries."
   },
   {
     "element": "Um",
     "name": "User Management",
     "capability": "selfService",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "For each company, some users can be setup as admin or super users, allowing them to manage the details of their company account. This feature allows these admin users to create new accounts for individual users taking the lift off of the internal team and empowering the customer to add their own users."
   },
   {
     "element": "Ss",
     "name": "Self-Service Permissions Mgmt",
     "capability": "selfService",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "For each company, some users can be setup as admin or super users, allowing them to manage the details of their company account. This feature allows these admin users to manage the permissions for individual users taking the lift off of the internal team and empowering the customer to manage the permissions of their own users."
   },
   {
     "element": "Ac",
     "name": "Account Restrictions",
     "capability": "restrictions",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Customers will frequently have restrictions regarding the products they view or buy, content they are able to see, and the prices that are available to them based on many factors such as their location, contracts, length of relationship and many other sales factors. The system will automatically account for all of these restrictions and allow permissable users to maintain them."
   },
   {
     "element": "Rp",
     "name": "Regional Restrictions",
     "capability": "restrictions",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "There are many eCommerce restrictions surrounding the region where the customer is buying, where the product is manufactured or sold, the discounts and prices available, or content that certain regions are allowed to see. The system will account for the regional restrictions involed with customers, products, content, and all the legal requirements for each region."
   },
   {
     "element": "Pe",
     "name": "Product Restrictions",
     "capability": "restrictions",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The system allows full management and support of product specific restrictions which define criteria for when and to whom a product can be offered for sale."
   },
   {
     "element": "Ss",
     "name": "Scheduled Shipments",
     "capability": "orderManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Provide the ability to set when a shipment should be delivered."
   },
   {
     "element": "Or",
     "name": "Order History",
     "capability": "orderManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Order History provides users a way to search and filter their past orders. This feature has become a standard across all digital properties. Additionally, internal users are able to view orders for a specific account or across all accounts in their jurisdiction."
   },
   {
     "element": "Od",
     "name": "Order Details",
     "capability": "orderManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The specifics of any particular past order can be accessed to view the order summary, products ordered and to manage self service options such as returns, reorders, and subscriptions. The order details view comes in a traditional product line perspective as well as a shipments perspectives displaying products by shipment."
   },
   {
     "element": "Cr",
     "name": "Contract Pricing Request",
     "capability": "orderManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Customers can request and negotiate contract prices for specific items or orders."
   },
   {
     "element": "Ca",
     "name": "Contract Pricing Acceptance",
     "capability": "orderManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Customizable workflow processes allow smooth negotiation of contract prices to accepting and applying an agreed sales contract."
   },
   {
     "element": "Os",
     "name": "Order Downloads",
     "capability": "orderManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The system will allow for the download of order details in a PDF or CSV format for ease of viewing and document management."
   },
   {
     "element": "Po",
     "name": "Pre-booking",
     "capability": "orderManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to create orders which are pre-booked and planned to be fulfilled in the future. This capability is often required when businesses have longer-lead times to obtain or produce goods."
   },
   {
     "element": "Rr",
     "name": "Re-order",
     "capability": "orderManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "A crucial capability of B2B eCommerce is the ability to quickly and efficiently reorder previously placed orders. Order history views allow users to self service their orders and reorder all or specific lines of an order with the ability to edit quanities as well as specific order details."
   },
   {
     "element": "St",
     "name": "Shipment Tracking",
     "capability": "orderManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to track shipments for an order."
   },
   {
     "element": "Ou",
     "name": "Order Uploads",
     "capability": "orderManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to upload orders in batch via a standard upload template."
   },
   {
     "element": "Qh",
     "name": "Quote History",
     "capability": "quoteManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Quote History provides users a way to search and filter quotes which are currently active, or have been previously expired. Additionally, internal users are able to view quotes for a specific account or across all accounts in their jurisdiction."
   },
   {
     "element": "Qd",
     "name": "Quote Details",
     "capability": "quoteManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The specifics of any particular saved quote can be accessed to view and edit details of the quote including all header and line details, from payment terms and methods, to quantities and promotions on specific product lines. The quote view can be used to send automated quote templates to customers or to directly submit orders.  "
   },
   {
     "element": "Qa",
     "name": "Quote Approvals",
     "capability": "quoteManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Quotes come equipped with a workflow to allow sending a quote with an automated template to a customer for approval for an official order. Customers can take action on the quote directly from the email notification."
   },
   {
     "element": "C",
     "name": "Conversations",
     "capability": "quoteManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "A 'conversations' feature by quote allows for immediate notifications and interactions between a customer and a sales rep to promote sales and conversion for active quotes."
   },
   {
     "element": "Cs",
     "name": "Create Subscription",
     "capability": "subscriptions",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to set subscription order schedules by product or by cart/quote. Subscriptions can provide custom discounts and can also be set to be ordered for custom time periods."
   },
   {
     "element": "Sh",
     "name": "Subscription History",
     "capability": "subscriptions",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to view the full history of all current and past subscriptions for products or full quotes/carts."
   },
   {
     "element": "Sd",
     "name": "Subscription Details",
     "capability": "subscriptions",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to manage and view the specific details of a particular current or past subscription."
   },
   {
     "element": "Id",
     "name": "Invoice Downloads",
     "capability": "invoiceManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The system will allow for the download of invoice details in a PDF or CSV format for ease of viewing and document management."
   },
   {
     "element": "Ih",
     "name": "Invoice History",
     "capability": "invoiceManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Invoice History provides users a way to search and filter their past invoices. Additionally, internal users are able to view invoices for a specific account or across all accounts in their jurisdiction."
   },
   {
     "element": "I",
     "name": "Invoice Details",
     "capability": "invoiceManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The specifics of any particular past invoice can be accessed to view the invoice summary, status, and to manage self-service options such as payments or downloads."
   },
   {
     "element": "Ip",
     "name": "Invoice Payment",
     "capability": "invoiceManagement",
-    "details": "returnsWarranty"
+    "details": "Individual invoices can be paid via an easy-to-use payment portal with a multitude of payment options. Partial payments are supported."
   },
   {
     "element": "Rm",
     "name": "Return Merchandise Authorization",
     "capability": "returnsWarranty",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Full support for customers to request returns on any order by product line for any needed quantity. Workflow offers streamlined solutions to automate backend processes."
   },
   {
     "element": "Wa",
     "name": "Warranty Claim",
     "capability": "returnsWarranty",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Full support for digital submission of warranty claims for registered warranties. The fields and workflow for submitting a warranty claim are fully customizable."
   },
   {
     "element": "Wr",
     "name": "Warranty Registration",
     "capability": "returnsWarranty",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Some products are sold with manufacturer or dealer warranties. Customers can easily register their warranties through an easy to use and customizable registration form. This allows companies to collect crucial data points on the customers who purchase their products."
   },
   {
     "element": "Wh",
     "name": "Warranty History & Management",
     "capability": "returnsWarranty",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Part of brand loyalty is the capability to manage not only past orders, but also previously registered warranties. This allows customers to view, sort, and filter a full history of all warranties previously registered or currently active."
   },
   {
     "element": "Wd",
     "name": "Warranty Details",
     "capability": "returnsWarranty",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Specific warranty details can be accessed on products purchased. This allows customers to view warranty statuses, file warranty claims, or view general warranty information."
   },
   {
     "element": "Wp",
     "name": "Warranty Renewal & Purchases",
     "capability": "returnsWarranty",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Active warranties can potentially be upgraded or extended. Expiring warranties can potentially be renewed. This comes with full notification support to inform users when their warranties can or need to be updated for increased conversion."
   },
   {
     "element": "Pc",
     "name": "Product Catalog",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The basis of any eCommerce site is the products which are sold. This covers the display, navigation, and searching and browsing of the products and product catalogs. Multiple different product catalogs across different brands or sites are supported."
   },
   {
     "element": "Pn",
     "name": "Product Configuration",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "More complex or unique products can be configured or built from the ground up, based on user specified selections and circumstances. This ties directly into CPQ capabilities to ultimately price and quote the end product."
   },
   {
     "element": "Pf",
     "name": "Product Fitment",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Customers frequently want to know what products or accessories fit or work with the product(s) they already purchased. The system tracks customers' previously purchased products and lets them know what other products fit directly from their order history or the product's display page via product suggestions for up-sell/cross-sell opportunities"
   },
   {
     "element": "Cu",
     "name": "Cross Sell / Upsell Association",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Amazon upholds that their best asset for revenue growth is the cross-sell/up-sell feature. The ability to relate any product to other products across a multitude of classifications, such as similar items, frequently bought together items, or items that other customers also view."
   },
   {
     "element": "Pw",
     "name": "Product Warnings",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Certain products sold in certain regions have legal requirements to display specific product warnings or disclosures. Full support for product warnings on product pages, during checkout, and with icons, if and wherever necessary."
   },
   {
     "element": "Pl",
     "name": "Price lists",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Full ability to manage customer and product specific pricing. Includes capabilites for grouping customers and products and implementing full price hierarchies."
   },
   {
     "element": "Pm",
     "name": "Product Media",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Robust product content and imagery with a slide gallery and support for videos. Product imagery can be customized based on location (product page vs product list page vs viewing quotes or orders)."
   },
   {
     "element": "P",
     "name": "Promotions & Discounts",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "An essential for all eCommerce implementations, a robust promotions engine allows easy management, application, and view of created promotion rules and coupons."
   },
   {
     "element": "Pi",
     "name": "Product MOQ/IOQ",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Full support for minimum and/or incremental order quantites. System automatically defaults to MOQ when applicable and automatically adjusts quantities entered for IOQ."
   },
   {
     "element": "Cc",
     "name": "Contract Catalogs",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Just as customers can request and negotiate contract prices for specific items or orders, this can additionally be done at a category or catalog level, giving sales-agreed access to specific products and pricing across an entire category or catalog."
   },
   {
     "element": "Pq",
     "name": "Product Q&A",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Customers frequently have questions regarding specific product information and compatabilities. On each product page, customers can pose questions where a product managemer can review and answer them through workflow. This information is maintained for other customers to view frequently posed questions."
   },
   {
     "element": "Po",
     "name": "Product Substitutions",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "All products have a lifecycle and will eventually be phased out in favor of newer products and technologies. The system supports automatic replacement of discontinued or obsoleleted products for similar/newer models with full transparency to the user."
   },
   {
     "element": "At",
     "name": "ATP / Future Availability",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "With digital selling, inventory is a crucial part of the eCommerce ecosystem. Inventory levels will naturally fluctuate and some products may temporarily run out of stock or cutomers may want to purchase more than is available. When this occurs, the system allows full configuration of inventory planning with the ability to display inventory schedules to the user, so they can purchase what they need and accurately plan their restocks."
   },
   {
     "element": "Lt",
     "name": "Lead Times",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The system supports full management and visibility for shipping lead times per product where applicable."
   },
   {
     "element": "I",
     "name": "Inventory",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The system fully supports the management of product inventory including statuses, error states, and necessary workflows."
   },
   {
     "element": "Dd",
     "name": "Digitized Product Data",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The system supports a configurable product display page allowing for enriched product data and content. Allows for products to be showcased by data points chosen by the seller."
   },
   {
     "element": "Pp",
     "name": "Potential Promotions",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "In scenarios where customers could potentially qualify for a promotion by adding certain items or dollar amounts to their cart/quote, the system automatically notifies them of these opportunities for up-selling and increased order values."
   },
   {
     "element": "Pm",
     "name": "Product Manuals",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "For products which require installation or initial setup, a product manual providing setup instructions as well as other helpful product tips and warnings is typically available. The system fully supports the download of product manuals directly on the product's display page, insuring that customers who misplace or are missing their manuals, can easily access them."
   },
   {
     "element": "Dv",
     "name": "3D Product Visualization",
     "capability": "productsPricing",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Capabilities for advanced 3D product imagery with full 360 and zooming."
   },
   {
     "element": "Qq",
     "name": "Quick Quote",
     "capability": "carts",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to quickly find pricing, inventory levels, and put together quotes or orders in a streamlined fashion via an individual component/widget on each user's home dashboard."
   },
   {
     "element": "Sc",
     "name": "Shared Carts",
     "capability": "carts",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Allows individual shoppers within the same account and internal sales/service users to share and edit the same quotes/carts."
   },
   {
     "element": "Oa",
     "name": "Order Approvals",
     "capability": "carts",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Fully configurable workflows allow for approvals of an order prior to being submitted."
   },
   {
     "element": "Mc",
     "name": "Carts / Multi-Carts",
     "capability": "carts",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "From either the customer or internal service/sales perspective, users will need the ability to work with multiple carts/quotes at the same time. The system is built around the capability to seemlessly manage multiple carts/quotes for the same or different customers or stores regardless of persona."
   },
   {
     "element": "Sa",
     "name": "Saved Carts",
     "capability": "carts",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Carts that customers create with the intention of buying can be saved for later with easy access once prepared for final checkout."
   },
   {
     "element": "Sg",
     "name": "UPC Scanning",
     "capability": "carts",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to utilize a UPC scanner on a given barcode to quickly view, quote, and digitally order products in-hand."
   },
   {
     "element": "Fl",
     "name": "Favorite Lists",
     "capability": "carts",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to manage individual shopping lists by favoriting specific products for ease of access and future ordering."
   },
   {
     "element": "St",
     "name": "Standard Checkout",
     "capability": "checkout",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to step through a standard checkout process capturing shipping, taxes, and payment in a streamlined view for as few clicks as possible for conversion."
   },
   {
     "element": "Te",
     "name": "Terms & Conditions",
     "capability": "checkout",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "For compliance reasons, every eCommerce implementation requires the user to agree to specific terms and conditions for placing an order on the site and the policies they must abide by in regards to the product(s) and the selling company."
   },
   {
     "element": "Sb",
     "name": "Shipping & Billing",
     "capability": "checkout",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Full support for third party integrations for entering, calculating, and displaying shipping costs based on location and company specific policies. Shipping updates are provided in real-time."
   },
   {
     "element": "Tx",
     "name": "Tax Calculation",
     "capability": "checkout",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Full support for third party integrations for automatically calculating tax based on tax jurisdiction based on region and the product(s) being purchased."
   },
   {
     "element": "Sl",
     "name": "Split Shipments",
     "capability": "checkout",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The system allows customers to split shipments for different methods or different delivery locations, allowing full management of shipments for a single order."
   },
   {
     "element": "Ex",
     "name": "Express Checkout",
     "capability": "checkout",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to pre-configure default checkout options for shipping method, address, and payment and billing information for an even faster checkout experience, enabling single-click order placement for higher conversion rates."
   },
   {
     "element": "Sy",
     "name": "Split Payments",
     "capability": "checkout",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The system allows customers to split payments across different methods or credit/gift cards, allowing full management of payment options in a single order."
   },
   {
     "element": "Te",
     "name": "Payment Terms",
     "capability": "checkout",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "A crucial aspect of B2B eCommerce, full support to offer and manage payment terms by customer with workflow for special payment terms by order or contract."
   },
   {
     "element": "Cp",
     "name": "Order Confirmation Page",
     "capability": "checkout",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "After an order has been placed, the system will display an order confirmation displaying the details of the order placed and any information the user must know about their purchase."
   },
   {
     "element": "Me",
     "name": "Payment Method",
     "capability": "checkout",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Support for a multitude of payment methods via third party integrations including credit cards, PO numbers, PayPal, eCheck, gift cards, and more."
   },
   {
     "element": "Pu",
     "name": "Punchout",
     "capability": "checkout",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Punchout allows a customer to shop a supplier's online catalog and purchase as a requisition in the buyer's procurement system."
   },
   {
     "element": "La",
     "name": "Landing Pages",
     "capability": "webContent",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Ability to generate leads and highlight marketing information on a site landing page. Allows for collection of user data including contact information, general company information, and product interests."
   },
   {
     "element": "Cs",
     "name": "Category Pages",
     "capability": "webContent",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "When extra content is needed to showcase a specific category, they can be configured to have a landing page with an aesthtically proven template for conversion and ideal user browsing."
   },
   {
     "element": "Br",
     "name": "Brand Pages",
     "capability": "webContent",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Full support for multiple brands offering indiviudal brand landing pages as well as a full page to showcase all brands with customizable content and ability to shop by specific brand."
   },
   {
     "element": "Na",
     "name": "Natural Language Search",
     "capability": "searchNavigation",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Full support for all needed configurations of natural language site search across multiple laterals including products, customers, invoices, and orders."
   },
   {
     "element": "G",
     "name": "Guided Search",
     "capability": "searchNavigation",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "In the business-to-business purchasing experience, customers need to be able to view all options within a specific filtered category or variants of a product. The system provides a seemless search experience for various and complex products in multple perspectives."
   },
   {
     "element": "Bo",
     "name": "Product Boost",
     "capability": "searchNavigation",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Products can be indiviudally configured to be ranked for viewing order among all other products within a search result or a specific category. Additionally, products can be showcased as hero products above all other products regardless of category or search result."
   },
   {
     "element": "Ad",
     "name": "Adaptive Index",
     "capability": "searchNavigation",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The system supports full adaptive indexing capabilities and allows for full configuration of the relevant data points to be considered for indexing. Cronjobs can be configured to automatically perform indexes at defined intervals."
   },
   {
     "element": "Ty",
     "name": "Type Ahead",
     "capability": "searchNavigation",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to type search terms and view automatic suggestions based on a fully configurable search index on desired search interfaces across the site."
   },
   {
     "element": "Fa",
     "name": "Facets",
     "capability": "searchNavigation",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "A staple in all eCommerce implementations, all search results and category pages come with fully customizable search facets for easy filtering and refinement of products. Facets can be formatted based on data type and managed for specific facet values (such as max/min values and dropdown selections)."
   },
   {
     "element": "Se",
     "name": "SEO",
     "capability": "searchNavigation",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "A crucial aspect of eCommerce is insuring that customers can find your site and products when using search engines (such as Google) for matching terms. Full capabilities for meta data and tagging are available."
   },
   {
     "element": "Ac",
     "name": "ADA Compliance",
     "capability": "legalCompliance",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The site follows all ADA guidelines regarding acceptable accessibility standards for full compliance."
   },
   {
     "element": "Gc",
     "name": "GDPR / CCPA Compliance",
     "capability": "legalCompliance",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The site follows all GDPR and CCPA guidelines regarding privacy and user data for full legal compliance."
   },
   {
     "element": "Wg",
     "name": "WCAG Compliance",
     "capability": "legalCompliance",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The site follows all WCAG guidelines regarding acceptable accessibility standards for full compliance."
   },
   {
     "element": "Sl",
     "name": "Sell Sheets",
     "capability": "salesEnablement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to download templated sell sheets for categories, catalogues, and individual products. This enables sales to showcase new offerings and promotions in a simple and clean aesthetic for improved customer visits and ultimately conversion."
   },
   {
     "element": "Sm",
     "name": "Supplier Management",
     "capability": "marketplace",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Part of the business-to-business buying experience includes the management of relationships with vendors. In the marketplace, users can manage their budgets, buying patterns, and potential savings or sales opportunites."
   },
   {
     "element": "Ra",
     "name": "Range Expansion",
     "capability": "marketplace",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Provides the capability to expand the range of products based on a captive customer base, maximizing current relationships and expanding custom-tailored product offerings."
   },
   {
     "element": "Mw",
     "name": "Marketing Website",
     "capability": "marketplace",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Strategic selling starts with marketing. A full marketing portal provides customers with a personalized experience based on their interests, vertical, and persona. Marketing managers have full control of the content and highlighted products provided."
   },
   {
     "element": "Ma",
     "name": "Marketing Automation",
     "capability": "marketplace",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability to segment and target customers based on what they purchase, browse, or click on across this site. Automated marketing campaigns provide customers with highly targeted and personalized emails and text messages that increase conversion."
   },
   {
     "element": "Ce",
     "name": "Customer Experience Management",
     "capability": "dataAnalytics",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Customizable survey capabilities to capture direct user feedback on the user experience."
   },
   {
     "element": "Ui",
     "name": "User Interaction Tracking",
     "capability": "dataAnalytics",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Ability to track users interactions and browsing experience as they navigate throughout the site providing insights into high traffic areas and potential improvements. Provided via FullStory."
   },
   {
     "element": "Ga",
     "name": "Google Analytics",
     "capability": "dataAnalytics",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Full integration support for Google Analytics."
   },
   {
     "element": "Rs",
     "name": "Region / Language Selection",
     "capability": "internationalization",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The ability for users to change their shopping region controlling multiple site components including language, content, and other configurable regional preferences."
   },
   {
     "element": "Em",
     "name": "Email Order Ingestion",
     "capability": "orderAutomation",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "Ability to create orders directly from an email using OCR capabilities to detect customer, skus, quantities, and other relevant order data, enabling extremely fast processing times."
   },
   {
     "element": "Se",
     "name": "Service Request",
     "capability": "serviceManagement",
-    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In venenatis erat ex, in iaculis neque dictum vestibulum. In in luctus nibh, a condimentum neque. Ut quis ex nec urna facilisis luctus. Phasellus tempor consequat mi, vel consectetur magna accumsan sit amet. Sed in porta sapien, nec fringilla turpis. In hac habitasse platea dictumst. Donec porttitor semper sapien, non blandit risus porta non. Praesent sed vehicula magna. Vestibulum scelerisque ipsum a massa bibendum, eu egestas risus mattis. Fusce ultricies leo turpis, nec dapibus ipsum pulvinar nec. Praesent sed ante ac libero varius rhoncus."
+    "details": "The selling of the product is merely the beginning of the product lifecycle for a customer. As products age with normal wear and tear, some products need to be serviced. The system allows customers to submit and manage their own service requests with supported workflow."
   }
 ]
