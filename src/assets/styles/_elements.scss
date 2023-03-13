@@ -191,16 +191,11 @@
     padding: 8px;
   }
 
-  &:before {
-    position: absolute;
-    left: 0;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    content: "";
-    opacity: 0;
-    background: rgba(255, 255, 255, 0.7);
-    transition: opacity 0.2s ease-in-out;
+  &.clone {
+    &:hover {
+      box-shadow: none;
+      transform: none;
+    }
   }
 
   &:hover {
