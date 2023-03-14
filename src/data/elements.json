@@ -79,7 +79,7 @@
   },
   {
     "element": "Ac",
-    "name": "Assisted Service / Customer Imitation",
+    "name": "Assisted Service",
     "capability": "accountManagement",
     "details": "Internal service and sales employees can shop and checkout directly on behalf of any customer within their territory or jurisdiction. Customer selection is streamlined via a user managed favorite accounts list. Shopping on behalf of a customer applies all of that customer's restrictions, products and prices for the employee so long as they are browsing the site with that customer selected."
   },
@@ -319,7 +319,7 @@
   },
   {
     "element": "Rm",
-    "name": "Return Merchandise Authorization",
+    "name": "Return Merchandise Auth",
     "capability": "returnsWarranty",
     "details": "Full support for customers to request returns on any order by product line for any needed quantity. Workflow offers streamlined solutions to automate backend processes."
   },
@@ -685,7 +685,7 @@
   },
   {
     "element": "Ce",
-    "name": "Customer Experience Management",
+    "name": "Customer Experience Mgmt",
     "capability": "dataAnalytics",
     "details": "Customizable survey capabilities to capture direct user feedback on the user experience."
   },

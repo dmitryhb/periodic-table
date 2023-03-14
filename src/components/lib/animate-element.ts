@@ -63,7 +63,7 @@ export const useAnimateElement = (): IUseAnimateElement => {
     const tl = new TimelineLite()
     const scrollLeft = document.documentElement.scrollLeft
 
-    tl.set(clonedContainer, { width: isSmallScreen() ? 130 : 170 })
+    tl.set(clonedContainer, { width: 120 })
     tl.to(clonedContainer, {
       left: isSmallScreen() ? (scrollLeft + 21) : 80,
       top: isSmallScreen() ? 20 : 100,
@@ -71,7 +71,7 @@ export const useAnimateElement = (): IUseAnimateElement => {
       ease: Circ.easeInOut
     })
     tl.to(clonedContainer, {
-      height: 400,
+      height: 300,
       duration: 0.3,
       ease: Circ.easeOut
     })
@@ -104,7 +104,7 @@ export const useAnimateElement = (): IUseAnimateElement => {
 
     const tl = new TimelineLite()
     tl.set(domElementCloned, {
-      width: 170,
+      width: 120,
     })
     tl.to(domElementCloned, {
       height: bounds.height,

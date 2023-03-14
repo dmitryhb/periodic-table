@@ -74,17 +74,74 @@
   position: relative;
   transition: opacity 0.3s linear;
   opacity: 1;
+  display: flex;
+  align-items: flex-start;
+  margin-top: 20px;
+  width: 100%;
+  max-width: 2000px;
+  margin-left: auto;
+  margin-right: auto;
+
+  &.has-selected {
+    .element-item:not(.has-selected) {
+      filter: grayscale(1);
+      opacity: 0.5;
+    }
+  }
+
+  .gap-1 {
+    margin-top: 68px;
+  }
+
+  .gap-3 {
+    margin-top: 204px;
+  }
 
   &.has-current-element {
     opacity: 0.8;
+  }
+
+  .col {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: flex-start;
+    width: 8.33%;
+
+    .element-item {
+      width: 100%;
+      transition: opacity 0.2s linear, filter 0.2s linear, transform 0.2s ease-in-out;;
+    }
+
+    &.col-3 {
+      width: 25%;
+      .element-item {
+        width: 32.5%;
+      }
+    }
+
+    @media screen and (max-width: 1599px) {
+      &.col-3 {
+        .element-item {
+          width: 32%;
+        }
+      }
+    }
+    @media screen and (max-width: 1051px) {
+      &.col-3 {
+        .element-item {
+          width: 31.5%;
+        }
+      }
+    }
   }
 }
 
 .elements-list {
   padding: 10px 0;
-  display: flex;
-  align-items: flex-start;
-  justify-content: flex-start;
+  display: grid;
+  grid-template-columns: repeat(11, 1fr);
+  grid-column-gap: 2px;
 
   .capability {
     display: grid;
@@ -135,6 +192,10 @@
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
   overflow: hidden;
 
+  .element-item {
+    width: 120px;
+  }
+
   @include lt-sm() {
     position: absolute;
   }
@@ -150,13 +211,14 @@
     display: inline-block;
     padding: 4px;
     opacity: 0;
+    z-index: 200;
   }
 
   .details {
     position: absolute;
-    left: 170px;
+    left: 130px;
     top: 0;
-    width: 330px;
+    width: 360px;
     padding: 20px;
     line-height: 135%;
 
@@ -176,20 +238,13 @@
   }
 }
 .element-item {
-  width: 170px;
-  height: 94px;
-  padding: 14px;
+  height: 65px;
+  padding: 10px;
   margin: 1.5px;
   position: relative;
   cursor: pointer;
   transition: transform 0.2s ease-in-out;
   user-select: none;
-
-  @include lt-sm() {
-    width: 130px;
-    height: 70px;
-    padding: 8px;
-  }
 
   &.clone {
     &:hover {
@@ -208,19 +263,43 @@
     transform: scale(0.95, 0.95);
   }
 
+  @media screen and (max-width: 900px) {
+    text-align: center;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
   .element {
-    font-size: 28px;
-    margin-bottom: 4px;
-    @include lt-sm() {
+    font-size: 22px;
+    @media screen and (max-width: 1200px) {
+      font-size: 20px;
+    }
+    @media screen and (max-width: 1100px) {
       font-size: 18px;
-      font-weight: bold;
+    }
+    @media screen and (max-width: 1051px) {
+      font-size: 16px;
+    }
+    @media screen and (max-width: 900px) {
+      font-size: 20px;
     }
   }
   .name {
-    font-size: 13px;
-    line-height: 135%;
-    @include lt-sm() {
-      font-size: 11px;
+    font-size: 11px;
+    line-height: 130%;
+
+    @media screen and (max-width: 1100px) {
+      font-size: 10px;
+    }
+    @media screen and (max-width: 1599px) {
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+    @media screen and (max-width: 900px) {
+      display: none;
     }
   }
 }
@@ -233,15 +312,10 @@ a {
 }
 
 .capabilities-list {
-  width: 950px;
+  width: 43%;
   position: absolute;
-  left: 400px;
-  top: 35px;
-
-  @include lt-sm() {
-    left: 300px;
-    width: 700px;
-  }
+  left: 17%;
+  top: 5px;
 
   .clear-all {
     position: absolute;
@@ -265,12 +339,12 @@ a {
 
   .capability {
     display: inline-flex;
-    padding: 4px 8px;
-    margin: 4px 0;
+    padding: 4px 4px;
+    margin: 2px 0;
+    font-size: 12px;
     align-items: flex-end;
     cursor: pointer;
     transition: background-color 0.2s linear;
-    border-radius: 4px;
     user-select: none;
     border: 1px solid transparent;
 
@@ -284,9 +358,9 @@ a {
     }
 
     .color {
-      width: 16px;
-      height: 16px;
-      margin-right: 8px;
+      width: 12px;
+      height: 12px;
+      margin-right: 6px;
       border: 1px solid rgba(0, 0, 0, 0.1);
     }
 
