@@ -1,17 +1,15 @@
 <script setup lang="ts">
 import {useStore} from 'vuex'
 import {computed, onBeforeUnmount, onMounted, watch} from 'vue'
-import {Capability} from '@/lib/capability'
 import {Element} from '@/lib/element'
 import {useClickOutside} from '@/lib/click-outside'
 import {useAnimateElement} from '@/components/lib/animate-element'
 import Cap from '@/components/Cap.vue'
 import CapabilitiesList from '@/components/CapabilitiesList.vue'
+import {elementsMap} from '@/components/lib/elements-map'
 
-const maxItemsPerColumn: number = 9
 const store = useStore()
 const capabilities = computed(() => store.state.data.capabilities.items)
-const elements = computed(() => store.state.data.elements.items)
 const selectedCapabilities = computed(() => store.state.app.selectedCapabilities)
 const hasCurrentElement = computed(() => store.state.app.currentElement !== null)
 const { animateElementIntro, animateElementOutro } = useAnimateElement()
@@ -34,16 +32,6 @@ const handleKeyboard = (e: KeyboardEvent): void => {
 }
 
 const { bind, unbind } = useClickOutside(['.elements-view', '.cloned-element'], clearCurrentElement)
-
-/**
- * Get column's CSS class name.
- * @param capability
- * @param index
- */
-const getColumnsClass = (capability: Capability, index: number): string => {
-  const total: number = capability.elements ? capability.elements.length : 1
-  return `column-${Math.max(0, Math.floor(total / maxItemsPerColumn))}`
-}
 
 /**
  * Check whether the given capability ID is in a list of selected capabilities.
@@ -69,6 +57,9 @@ const onElementClicked = (element: Element): void => {
   store.dispatch('app/setCurrentElement', element)
 }
 
+/**
+ * Computed property which defines whether there is a selected element or not.
+ */
 const hasSelected = computed(() => {
   return store.state.app.selectedCapabilities.length > 0
 })
@@ -98,44 +89,18 @@ watch(() => store.state.app.currentElement, (value: Element | null, oldValue: El
 <template>
   <div class="elements-view" :class="{ 'has-current-element': hasCurrentElement, 'has-selected': hasSelected }">
     <capabilities-list />
-    <div class="col">
-      <cap @clicked="onElementClicked" capability="quoteManagement" />
-      <cap @clicked="onElementClicked" capability="restrictions" />
-      <cap @clicked="onElementClicked" capability="dashboards" />
-    </div>
-    <div class="col gap-1">
-      <cap @clicked="onElementClicked" capability="marketplace" />
-      <cap @clicked="onElementClicked" capability="returnsWarranty" />
-    </div>
-    <div class="col col-3 gap-3">
-      <cap @clicked="onElementClicked" capability="accountManagement" />
-      <cap @clicked="onElementClicked" capability="selfService" />
-      <cap @clicked="onElementClicked" capability="serviceManagement" />
-      <cap @clicked="onElementClicked" capability="internationalization" />
-    </div>
-    <div class="col col-3 gap-3">
-      <cap @clicked="onElementClicked" capability="salesEnablement" />
-      <cap @clicked="onElementClicked" capability="productsPricing" />
-      <cap @clicked="onElementClicked" capability="orderAutomation" />
-      <cap @clicked="onElementClicked" capability="subscriptions" />
-    </div>
-    <div class="col gap-1">
-      <cap @clicked="onElementClicked" capability="webContent" />
-      <cap @clicked="onElementClicked" capability="carts" />
-    </div>
-    <div class="col gap-1">
-      <cap @clicked="onElementClicked" capability="orderManagement" />
-    </div>
-    <div class="col gap-1 sm-horizontal">
-      <cap @clicked="onElementClicked" capability="dataAnalytics" />
-      <cap @clicked="onElementClicked" capability="legalCompliance" />
-      <cap @clicked="onElementClicked" capability="invoiceManagement" />
-    </div>
-    <div class="col sm-horizontal">
-      <cap @clicked="onElementClicked" capability="checkout" />
-    </div>
-    <div class="col sm-horizontal">
-      <cap @clicked="onElementClicked" capability="searchNavigation" />
+    <div
+        v-for="(capability, i) in elementsMap"
+        :key="`capability-col-${i}`"
+        class="col"
+        :class="capability.cssClass"
+    >
+      <cap
+          v-for="capabilityItem in capability.capabilities"
+          @clicked="onElementClicked"
+          :key="`capabilityItem-${capabilityItem}`"
+          :capability="capabilityItem"
+      />
     </div>
   </div>
 </template>
