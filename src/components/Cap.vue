@@ -25,11 +25,15 @@ const elements = computed((): IElement[] => {
   return capabilityInstance ? capabilityInstance.elements as IElement[] : []
 })
 
-const isSelected = () => {
+const isSelected = computed(() => {
   return store.state.app.selectedCapabilities.includes(props.capability)
+})
+
+const isCurrent = (element: IElement) => {
+  return store.state.app.currentElement && store.state.app.currentElement.id === element.id
 }
 
-const onElementClicked = (element: Element): void => {
+const onElementClicked = (element: IElement): void => {
   emit('clicked', element)
 }
 
@@ -39,7 +43,7 @@ const onElementClicked = (element: Element): void => {
       v-for="element in elements"
       :element="element"
       :id="element.id"
-      :class="{ 'has-selected': isSelected() }"
+      :class="[`capability-${element.capability.id}`, { 'has-selected': isSelected, current: isCurrent(element) }]"
       @clicked="onElementClicked(element)"
   />
 </template>

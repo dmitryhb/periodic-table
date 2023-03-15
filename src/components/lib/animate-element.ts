@@ -1,22 +1,28 @@
-import {gsap, TimelineLite, Circ} from 'gsap'
-import {Element} from '@/lib/element'
+import {gsap, Circ} from 'gsap'
 import {isSmallScreen} from '@/lib/screen'
+import {Element} from '@/lib/element'
 
 export interface IUseAnimateElement {
   animateElementIntro(element: Element): void
   animateElementOutro(element: Element): void
 }
 
+const detailsPopupWidth: number = 350
 export const useAnimateElement = (): IUseAnimateElement => {
+  /**
+   * Current active element.
+   */
+  let currentElement: Element | null = null
+
   /**
    * Apply bounds to element.
    * @param domElement
    * @param bounds
    */
   const applyBounds = (domElement: HTMLElement, bounds: DOMRect): void => {
-    domElement.style.left = `${bounds.left}px`
-    domElement.style.top = `${bounds.top}px`
-    domElement.style.width = `${bounds.width - 10}px`
+    domElement.style.left = `${bounds.x}px`
+    domElement.style.top = `${bounds.y}px`
+    domElement.style.width = `${bounds.width}px`
     domElement.style.height = `${bounds.height}px`
   }
 
@@ -26,8 +32,90 @@ export const useAnimateElement = (): IUseAnimateElement => {
    * @param isClone
    */
   const getDomElement = (element: Element, isClone: boolean = false): HTMLElement => {
-    const domElement: HTMLElement = document.querySelector(`#${element.id}${isClone ? '-clone' : ''}`) as HTMLElement
-    return domElement
+    return document.querySelector(`#${element.id}${isClone ? '-clone' : ''}`) as HTMLElement
+  }
+
+  /**
+   * Get details HTML code.
+   * @param element
+   */
+  const getDetailsHtml = (element: Element): string => {
+    return `<h2 class="font-${element.capability?.color}">${element.element}</h2><h3>${element.name}</h3><p>${element.details}</p>`
+  }
+
+  /**
+   * Get height of popup with details.
+   * @param element
+   * @param width
+   */
+  const getHeight = (element: Element, width: number): number => {
+    const appDomElement: HTMLElement = document.querySelector('#app') as HTMLElement
+    const el: HTMLElement = document.createElement('div')
+    el.innerHTML = `<div class="details">${getDetailsHtml(element)}</div>`
+    el.classList.add('cloned-element')
+    el.style.width = `${width}px`
+    el.style.left = '-10000px'
+    el.style.top = '-10000px'
+    appDomElement.appendChild(el)
+    const height: number = el.getBoundingClientRect().height
+
+    el.remove()
+    return height
+  }
+
+  /**
+   * Calculate position of element.
+   * @param element
+   * @param bounds
+   */
+  const calculatePosition = (element: Element, bounds: DOMRect): DOMRect => {
+    const height: number = getHeight(element, detailsPopupWidth)
+    const initialTop: number = bounds.top
+    const initialRight: number = bounds.right
+
+    bounds.x = bounds.right
+    bounds.y -= height / 2 - bounds.height / 2 + (isSmallScreen() ? document.documentElement.scrollTop : 0)
+    bounds.y += document.documentElement.scrollTop
+
+    if (bounds.x + detailsPopupWidth > window.innerWidth) {
+      bounds.x = bounds.left - bounds.width - detailsPopupWidth
+    }
+
+    if (bounds.y + height > window.innerHeight || isSmallScreen()) {
+      bounds.x = initialRight - detailsPopupWidth / 2 - bounds.width / 2
+      bounds.y = initialTop - height
+      bounds.y += document.documentElement.scrollTop
+    }
+
+    bounds.width = detailsPopupWidth
+    bounds.height = height
+
+    if (isSmallScreen()) {
+      bounds.x = 10
+      bounds.width = window.innerWidth - 20
+    }
+
+    if (bounds.x < 10) {
+      bounds.x = 10
+    }
+
+    return bounds
+  }
+
+  /**
+   * Recalculate position of details popup.
+   */
+  const recalculatePosition = (): void => {
+    if (!currentElement) {
+      return
+    }
+
+    const domElement: HTMLElement = getDomElement(currentElement)
+    if (domElement) {
+      const bounds: DOMRect = calculatePosition(currentElement, domElement.getBoundingClientRect())
+      const clonedContainer: HTMLElement = getDomElement(currentElement, true)
+      applyBounds(clonedContainer, bounds)
+    }
   }
 
   /**
@@ -36,56 +124,48 @@ export const useAnimateElement = (): IUseAnimateElement => {
    */
   const animateElementIntro = (element: Element): void => {
     const domElement: HTMLElement = getDomElement(element)
-    const bounds: DOMRect = domElement.getBoundingClientRect()
-    const clonedDomElement: HTMLElement = domElement.cloneNode(true) as HTMLElement
+    const bounds: DOMRect = calculatePosition(element, domElement.getBoundingClientRect())
     const appDomElement: HTMLElement = document.querySelector('#app') as HTMLElement
     const clonedContainer: HTMLElement = document.createElement('div')
     const details: HTMLElement = document.createElement('div')
     const closeButton: HTMLElement = document.createElement('a')
 
+    currentElement = element
+    clonedContainer.id = `${domElement.id}-clone`
     clonedContainer.classList.add('cloned-element')
-    clonedContainer.id = `${clonedDomElement.id}-clone`
-    clonedDomElement.id = `${clonedDomElement.id}-cloned-item`
-    clonedDomElement.classList.add('clone')
+    clonedContainer.classList.add(`border-${element.capability?.color}`)
+
     closeButton.setAttribute('href', 'javascript:;')
     closeButton.classList.add('close')
+    closeButton.addEventListener('click', () => {
+      window.dispatchEvent(new Event('closeActiveElement'))
+    })
 
     details.classList.add('details')
-    details.innerHTML = element.details
+    details.innerHTML = getDetailsHtml(element)
 
-    clonedContainer.appendChild(clonedDomElement)
-    clonedContainer.appendChild(details)
     clonedContainer.appendChild(closeButton)
+    clonedContainer.appendChild(details)
     appDomElement.appendChild(clonedContainer)
-
     applyBounds(clonedContainer, bounds)
 
-    const tl = new TimelineLite()
-    const scrollLeft = document.documentElement.scrollLeft
-
-    tl.set(clonedContainer, { width: 120 })
-    tl.to(clonedContainer, {
-      left: isSmallScreen() ? (scrollLeft + 21) : 80,
-      top: isSmallScreen() ? 20 : 100,
-      duration: 0.6,
-      ease: Circ.easeInOut
-    })
-    tl.to(clonedContainer, {
-      height: 300,
-      duration: 0.3,
+    const tl: gsap.core.Timeline = new gsap.core.Timeline()
+    tl.set(closeButton, { opacity: 0 })
+    tl.fromTo(clonedContainer, {
+      x: 50,
+      scale: 0.5,
+      transformOrigin: '0% 50%'
+    }, {
+      x: 0,
+      scale: 1,
+      duration: 0.2,
       ease: Circ.easeOut
     })
-    tl.to(clonedContainer, {
-      width: isSmallScreen() ? document.documentElement.offsetWidth - 42 : 500,
-      duration: 0.4,
-      ease: Circ.easeIn
-    })
-    const tlCloseButton = new TimelineLite()
-    tlCloseButton.to(closeButton, {
+    tl.to(closeButton, {
       opacity: 1,
-      delay: 1.2,
-      duration: 0.5
+      duration: 0.2
     })
+    window.addEventListener('resize', recalculatePosition)
   }
 
   /**
@@ -93,27 +173,10 @@ export const useAnimateElement = (): IUseAnimateElement => {
    * @param element
    */
   const animateElementOutro = (element: Element): void => {
-    const domElementCloned: HTMLElement = getDomElement(element, true)
-    const domElement: HTMLElement = getDomElement(element)
-    const bounds: DOMRect = domElement.getBoundingClientRect()
-    const closeButton: HTMLElement = domElementCloned.querySelector('a.close') as HTMLElement
-    const details: HTMLElement = domElementCloned.querySelector('.details') as HTMLElement
-
-    closeButton.style.display = 'none'
-    details.style.display = 'none'
-
-    const tl = new TimelineLite()
-    tl.set(domElementCloned, {
-      width: 120,
-    })
-    tl.to(domElementCloned, {
-      height: bounds.height,
-      left: bounds.left,
-      top: bounds.top,
-      onComplete () {
-        domElementCloned.remove()
-      }
-    })
+    const domElement: HTMLElement = getDomElement(element, true)
+    domElement.remove()
+    currentElement = null
+    window.removeEventListener('resize', recalculatePosition)
   }
 
   return {

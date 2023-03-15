@@ -15,7 +15,7 @@ const toggleItem = (capabilityId: string): void => {
   store.dispatch('app/setCurrentElement', null)
 
   if (selectedCapabilities.value.includes(capabilityId)) {
-    const capabilityDomElement: HTMLElement | null = document.querySelector(`#capability-${capabilityId}`)
+    const capabilityDomElement: HTMLElement | null = document.querySelector(`.capability-${capabilityId}`)
     if (capabilityDomElement) {
       capabilityDomElement.scrollIntoView({behavior: 'smooth', block: 'end', inline: 'nearest'})
     }

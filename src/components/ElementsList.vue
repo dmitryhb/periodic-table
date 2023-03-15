@@ -75,29 +75,23 @@ const hasSelected = computed(() => {
 
 onMounted(() => {
   window.addEventListener('keyup', handleKeyboard)
+  window.addEventListener('closeActiveElement', clearCurrentElement)
   bind()
 })
 
 onBeforeUnmount(() => {
   window.removeEventListener('keyup', handleKeyboard)
+  window.removeEventListener('closeActiveElement', clearCurrentElement)
   unbind()
 })
 
 watch(() => store.state.app.currentElement, (value: Element | null, oldValue: Element | null) => {
   if (oldValue) {
-    const closeButton: HTMLElement | null = document.querySelector('.close')
-    if (closeButton) {
-      closeButton.removeEventListener('click', clearCurrentElement)
-    }
     animateElementOutro(oldValue)
   }
 
   if (value) {
     animateElementIntro(value)
-    const closeButton: HTMLElement | null = document.querySelector('.close')
-    if (closeButton) {
-      closeButton.addEventListener('click', clearCurrentElement)
-    }
   }
 })
 </script>
@@ -132,15 +126,15 @@ watch(() => store.state.app.currentElement, (value: Element | null, oldValue: El
     <div class="col gap-1">
       <cap @clicked="onElementClicked" capability="orderManagement" />
     </div>
-    <div class="col gap-1">
+    <div class="col gap-1 sm-horizontal">
       <cap @clicked="onElementClicked" capability="dataAnalytics" />
       <cap @clicked="onElementClicked" capability="legalCompliance" />
       <cap @clicked="onElementClicked" capability="invoiceManagement" />
     </div>
-    <div class="col">
+    <div class="col sm-horizontal">
       <cap @clicked="onElementClicked" capability="checkout" />
     </div>
-    <div class="col">
+    <div class="col sm-horizontal">
       <cap @clicked="onElementClicked" capability="searchNavigation" />
     </div>
   </div>
