@@ -41,9 +41,9 @@ const onElementClicked = (element: IElement): void => {
 <template>
   <element-item
       v-for="element in elements"
-      :element="element"
+      :element="element as Element"
       :id="element.id"
-      :class="[`capability-${element.capability.id}`, { 'has-selected': isSelected, current: isCurrent(element) }]"
+      :class="[`capability-${(element.capability as Capability).id}`, { 'has-selected': isSelected, current: isCurrent(element) }]"
       @clicked="onElementClicked(element)"
   />
 </template>
