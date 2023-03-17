@@ -1,10 +1,12 @@
 import {Capability, ICapability} from '@/lib/capability'
+import {IElementPlatforms} from '@/lib/platform'
 
 export interface IElement {
   id: string,
   element: string
   name: string
   capability: ICapability | null | string
+  platforms: IElementPlatforms
   details: string
 }
 
@@ -14,6 +16,7 @@ export class Element implements IElement {
   private _name: string = ''
   private _capability: ICapability | null = null
   private _details: string = ''
+  private _platforms: IElementPlatforms | null = null
 
   /**
    * Initialize a new instance of Element class.
@@ -29,6 +32,7 @@ export class Element implements IElement {
       this.element = data.element
       this.name = data.name
       this.details = data.details
+      this.platforms = data.platforms
     }
   }
 
@@ -70,5 +74,13 @@ export class Element implements IElement {
 
   set details(value: string) {
     this._details = value
+  }
+
+  get platforms(): IElementPlatforms {
+    return this._platforms as IElementPlatforms
+  }
+
+  set platforms(value: IElementPlatforms) {
+    this._platforms = value
   }
 }
