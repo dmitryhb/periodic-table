@@ -99,6 +99,10 @@ export const useAnimateElement = (): IUseAnimateElement => {
       bounds.x = 10
     }
 
+    if (bounds.y < 0) {
+      bounds.y = 0
+    }
+
     return bounds
   }
 
