@@ -1,6 +1,6 @@
 interface IClickOutside {
-  bind (): void
-  unbind (): void
+  bindClickOutside (): void
+  unbindClickOutside (): void
 }
 
 /**
@@ -57,10 +57,10 @@ const useClickOutside = (ignoreSelector: string[] = [], callback: CallableFuncti
   }
 
   return {
-    bind(): void {
+    bindClickOutside(): void {
       window.addEventListener('click', clickedOutside)
     },
-    unbind(): void {
+    unbindClickOutside(): void {
       window.removeEventListener('click', clickedOutside)
     }
   }

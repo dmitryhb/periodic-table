@@ -2,11 +2,12 @@
 import {useStore} from 'vuex'
 import {computed, onBeforeUnmount, onMounted, watch} from 'vue'
 import {Element} from '@/lib/element'
-import {useClickOutside} from '@/lib/click-outside'
+import {useClickOutside} from '@/lib/use-click-outside'
 import {useAnimateElement} from '@/components/lib/animate-element'
 import Cap from '@/components/Cap.vue'
 import CapabilitiesList from '@/components/CapabilitiesList.vue'
 import {elementsMap} from '@/components/lib/elements-map'
+import {useKeyboardNavigation} from '@/lib/use-keyboard-navigation'
 
 const store = useStore()
 const capabilities = computed(() => store.state.data.capabilities.items)
@@ -31,7 +32,8 @@ const handleKeyboard = (e: KeyboardEvent): void => {
   }
 }
 
-const { bind, unbind } = useClickOutside(['.elements-view', '.cloned-element'], clearCurrentElement)
+const { bindClickOutside, unbindClickOutside } = useClickOutside(['.elements-view', '.cloned-element'], clearCurrentElement)
+const { bindKeyboardNavigation, unbindKeyboardNavigation } = useKeyboardNavigation()
 
 /**
  * Check whether the given capability ID is in a list of selected capabilities.
@@ -67,13 +69,15 @@ const hasSelected = computed(() => {
 onMounted(() => {
   window.addEventListener('keyup', handleKeyboard)
   window.addEventListener('closeActiveElement', clearCurrentElement)
-  bind()
+  bindClickOutside()
+  bindKeyboardNavigation()
 })
 
 onBeforeUnmount(() => {
   window.removeEventListener('keyup', handleKeyboard)
   window.removeEventListener('closeActiveElement', clearCurrentElement)
-  unbind()
+  unbindClickOutside()
+  unbindKeyboardNavigation()
 })
 
 watch(() => store.state.app.currentElement, (value: Element | null, oldValue: Element | null) => {

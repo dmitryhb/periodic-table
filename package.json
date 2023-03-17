@@ -9,7 +9,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@types/lodash": "^4.14.191",
     "gsap": "^3.11.4",
+    "lodash": "^4.17.21",
     "vue": "^3.2.45",
     "vuex": "^4.0.2"
   },
