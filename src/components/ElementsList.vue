@@ -8,11 +8,13 @@ import Cap from '@/components/Cap.vue'
 import CapabilitiesList from '@/components/CapabilitiesList.vue'
 import {elementsMap} from '@/components/lib/elements-map'
 import {useKeyboardNavigation} from '@/lib/use-keyboard-navigation'
+import PlatformLegend from '@/components/PlatformLegend.vue'
 
 const store = useStore()
 const capabilities = computed(() => store.state.data.capabilities.items)
 const selectedCapabilities = computed(() => store.state.app.selectedCapabilities)
 const hasCurrentElement = computed(() => store.state.app.currentElement !== null)
+const hasCurrentPlatform = computed(() => store.state.app.currentPlatform !== null)
 const { animateElementIntro, animateElementOutro } = useAnimateElement()
 
 /**
@@ -107,4 +109,5 @@ watch(() => store.state.app.currentElement, (value: Element | null, oldValue: El
       />
     </div>
   </div>
+  <platform-legend v-if="hasCurrentPlatform" />
 </template>

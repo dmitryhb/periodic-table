@@ -1,14 +1,17 @@
 import type { ActionTree, GetterTree, MutationTree } from 'vuex'
 import {delay} from '@/lib/delay'
 import {Element} from '@/lib/element'
+import {IPlatform} from '@/lib/platform'
 
 export interface IAppState {
   selectedCapabilities: string[],
+  currentPlatform: IPlatform | null,
   currentElement: Element | null
 }
 
 const state: IAppState = {
   selectedCapabilities: [],
+  currentPlatform: null,
   currentElement: null
 }
 
@@ -48,6 +51,15 @@ const mutations: MutationTree<IAppState> = {
    */
   setCurrentElement (state: IAppState, element: Element | null): void {
     state.currentElement = element
+  },
+
+  /**
+   * Set current platform.
+   * @param state
+   * @param platform
+   */
+  setCurrentPlatform (state: IAppState, platform: IPlatform | null): void {
+    state.currentPlatform = platform
   }
 }
 
@@ -85,6 +97,15 @@ const actions: ActionTree<IAppState, never> = {
    */
   setCurrentElement ({ commit }, element: Element | null): void {
     commit('setCurrentElement', element)
+  },
+
+  /**
+   * Set current platform.
+   * @param commit
+   * @param platform
+   */
+  setCurrentPlatform ({ commit }, platform: IPlatform | null): void {
+    commit('setCurrentPlatform', platform)
   }
 }
 

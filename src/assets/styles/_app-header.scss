@@ -1,0 +1,46 @@
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 2000px;
+  margin: auto;
+
+  @media screen and (max-width: 890px){
+    flex-wrap: wrap;
+  }
+
+  .title {
+    justify-self: flex-start;
+  }
+
+  .platform-filter {
+    flex: 0 0 412px;
+    display: flex;
+    align-items: center;
+
+    @media screen and (max-width: 890px){
+      flex: 0 0 100%;
+    }
+
+    @media screen and (max-width: 450px){
+      margin-top: 10px;
+    }
+
+    label {
+      display: inline-block;
+      white-space: nowrap;
+      margin-left: 20px;
+    }
+    select {
+      margin-left: 10px;
+      width: 100%;
+      padding: 5px;
+    }
+
+    @media screen and (max-width: 890px) {
+      label {
+        margin-left: 0;
+      }
+    }
+  }
+}

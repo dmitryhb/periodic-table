@@ -2,8 +2,8 @@
 import AppLoader from './components/ui/AppLoader.vue'
 import {computed, ComputedRef, defineComponent, onMounted} from 'vue'
 import {useStore} from 'vuex'
-import CapabilitiesList from '@/components/CapabilitiesList.vue'
 import ElementsList from '@/components/ElementsList.vue'
+import AppHeader from '@/components/AppHeader.vue'
 
 const store = useStore()
 const isAppReady: ComputedRef<boolean> = computed(() => store.state.ui.isAppReady)
@@ -12,6 +12,7 @@ onMounted(async () => {
   await store.dispatch('app/initApplication')
   await store.dispatch('data/loadCapabilities')
   await store.dispatch('data/loadElements')
+  await store.dispatch('data/loadPlatforms')
   await store.dispatch('ui/setAppReady', true)
 })
 
@@ -21,7 +22,7 @@ defineComponent({
 </script>
 <template>
   <div v-if="isAppReady">
-    <div class="title">The Periodic Table of Composable B2B Commerce</div>
+    <app-header />
     <div>
       <elements-list />
     </div>

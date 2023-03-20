@@ -5,7 +5,7 @@ export interface IPlatform {
 
 export enum PlatformOptions {
   NotSupported = -1,
-  Possible = 0,
+  Partially = 0,
   Supported = 1
 }
 

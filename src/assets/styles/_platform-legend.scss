@@ -1,0 +1,59 @@
+.platform-legend {
+  position: absolute;
+  bottom: 50px;
+  right: 30px;
+  width: 550px;
+  display: flex;
+  padding: 6px;
+  background: #f0f0f0;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 7px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+
+  @media screen and (max-width: 1050px){
+    position: relative;
+    right: 0;
+    left: 0;
+    bottom: auto;
+    margin: 20px auto;
+  }
+  @media screen and (max-width: 551px){
+    width: 100%;
+  }
+
+  .indicator {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    background: #63F2CC;
+    margin-right: 5px;
+
+    &.partially {
+      opacity: 0.5;
+    }
+
+    &.not-supported {
+      opacity: 0.3;
+      filter: grayscale(1);
+    }
+  }
+
+  .text {
+    display: inline-block;
+    padding: 2px 0 0 0;
+  }
+
+  .item {
+    display: flex;
+    align-items: center;
+    padding: 7px;
+    font-weight: bold;
+
+    .count {
+      opacity: 0.6;
+      font-weight: normal;
+    }
+  }
+}

@@ -3,7 +3,9 @@ import ElementItem from '@/components/ElementItem.vue'
 import { computed } from 'vue'
 import { useStore } from 'vuex'
 import { Capability } from '@/lib/capability.js'
-import {Element, IElement} from '@/lib/element'
+import {IElement} from '@/lib/element'
+import get from 'lodash/get'
+import {IElementPlatforms, PlatformOptions} from '@/lib/platform'
 
 const props = defineProps({
   capability: String
@@ -37,13 +39,30 @@ const onElementClicked = (element: IElement): void => {
   emit('clicked', element)
 }
 
+const getPlatformCssClass = (element: IElement): string => {
+  if (!store.state.app.currentPlatform || !(store.state.app.currentPlatform.code in element.platforms)) {
+    return ''
+  }
+
+  const platformOption: PlatformOptions = get<IElementPlatforms, string>(element.platforms, store.state.app.currentPlatform.code) as PlatformOptions
+  switch (platformOption) {
+    case PlatformOptions.NotSupported:
+      return 'platform not-supported'
+    case PlatformOptions.Partially:
+      return 'platform partially'
+    case PlatformOptions.Supported:
+      return 'platform supported'
+  }
+
+  return ''
+}
 </script>
 <template>
   <element-item
       v-for="element in elements"
       :element="element as Element"
       :id="element.id"
-      :class="[`capability-${(element.capability as Capability).id}`, { 'has-selected': isSelected, current: isCurrent(element) }]"
+      :class="[`capability-${(element.capability as Capability).id}`, { 'has-selected': isSelected, current: isCurrent(element) }, getPlatformCssClass(element)]"
       @clicked="onElementClicked(element)"
   />
 </template>
